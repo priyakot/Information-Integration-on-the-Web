@@ -1,0 +1,3374 @@
+{
+    "Artwork": [
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, a: brown-red-green patina; b&amp;c: brown patina",
+            "Dimensions: ": "(a) 13 1/2 H x 14 5/8 L x 6 D in. (b) 3 1/8 H x 5 3/4L in. (c) 3 1/16 H x 5 3/4 W in.",
+            "Date": "Original model (A) c. 1846-1848; (B) c. 1831; (C) 1831; (A-C) this cast n.d.",
+            "Painting": 1,
+            "Object Number: ": "1996.46.41a-c ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "(a) Theseus Struggling with the Centaur Bienor; (b) Panther Walking; (c) Leopard"
+        },
+        {
+            "Artist: ": "Th&eacute;ophile-Victor-Emile Lemmens, French, 1821-1867",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-3/4 x 9-11/16 in. (17.2 x 24.6 cm.); Frame: 15-3/4 x 18-3/4 x 2-3/4 in. (40 x 47.6 x 7 cm.)",
+            "Date": "1866",
+            "Painting": 2,
+            "Object Number: ": "1996.45.168 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "A Lesson for Wrongdoers"
+        },
+        {
+            "Artist: ": "Vincent van Gogh, Dutch, 1853-1890",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "12 7/8 x 16 1/4 in. (32.7 x 41.3 cm.) ",
+            "Date": "1887",
+            "Painting": 3,
+            "Object Number: ": "1950.302 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "A Pair of Boots"
+        },
+        {
+            "Artist: ": "Lorenzo (Baldissera) Tiepolo, Italian, 1736-1776",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "24 1/8 x 20 1/16 in. (61.3 x 51 cm.)",
+            "Date": "c. 1754-1757",
+            "Painting": 4,
+            "Object Number: ": "1951.117 ",
+            "Credit Line: ": "The Jacob Epstein Collection",
+            "Title": "A Philosopher with a Book"
+        },
+        {
+            "Artist: ": "Norbert Goeneutte, French, 1854-1894",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14 15/16 x 18 3/16 in. (37.9 x 46.2 cm.) ",
+            "Date": "1890",
+            "Painting": 5,
+            "Object Number: ": "1996.45.116 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "A Venetian Balcony"
+        },
+        {
+            "Artist: ": "Constant Troyon, French, 1810-1865",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "10-1/8 x 8-1/8 in. (25.7 x 20.6 cm.); Frame: 19-3/4 x 17-3/4 x 2-1/2 in. (50.2 x 45.1 x 6.4 cm.)",
+            "Date": "c. 1850",
+            "Painting": 6,
+            "Object Number: ": "1996.45.264 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Across the Meadow"
+        },
+        {
+            "Artist: ": "Abraham Teniers, Flemish, 1629-1670",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-7/8 x 9-3/16 in. (17.5 x 23.3 cm.); Frame: 12-15/16 x 15-1/2 x 1-3/4 in. (32.9 x 39.4 x 4.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 7,
+            "Object Number: ": "1996.45.255 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "After the Meal"
+        },
+        {
+            "Artist: ": "Auguste Schenck, Danish, 1828-1901",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "13 x 32-1/16 in. (33 x 81.5 cm.); Frame: 24 x 43 x 2-5/8 in. (61 x 109.3 x 6.7 cm.)",
+            "Date": "1861",
+            "Painting": 8,
+            "Object Number: ": "1996.45.245 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "After the Storm"
+        },
+        {
+            "Artist: ": "Kurt Harald Isenstein, German, 1898-1980",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "14-1/2 x 12 x 11 in.",
+            "Date": "1923",
+            "Painting": 9,
+            "Object Number: ": "1951.124 ",
+            "Credit Line: ": "The Jacob Epstein Collection",
+            "Title": "Albert Einstein"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "5-3/4 in. Diam.",
+            "Date": "1830",
+            "Painting": 10,
+            "Object Number: ": "1996.46.136 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Alfred Johannot"
+        },
+        {
+            "Artist: ": "Paul Cornet, French, 1892-1977",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "19 in. (48.3 cm.)",
+            "Date": "n.d.",
+            "Painting": 11,
+            "Object Number: ": "1951.369 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Algerian Dancer"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown patina",
+            "Dimensions: ": "6 H x 7-1/2 W x 2-1/4 D in.",
+            "Date": "Original model n.d.; this cast possibly 1884",
+            "Painting": 12,
+            "Object Number: ": "1996.46.32 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Algerian Dromedary (reduction)"
+        },
+        {
+            "Artist: ": "Rodolphe Ernest, Austrian, 1854-1932",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9-7/8 x 7-3/4 in. (25.1 x 19.7 cm.); Frame: 19-1/8 x 17-1/8 x 3 in. (48.6 x 43.5 x 7.6 cm.)",
+            "Date": "1892",
+            "Painting": 13,
+            "Object Number: ": "1996.45.97 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Algerian Moor"
+        },
+        {
+            "Artist: ": "Adolphe Joseph Thomas Monticelli, French, 1824-1886",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "17 13/16 x 23 7/16 in. (45.2 x 59.5 cm.) ",
+            "Date": "c. 1865",
+            "Painting": 14,
+            "Object Number: ": "1996.45.205 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Allegory"
+        },
+        {
+            "Artist: ": "Adolphe Joseph Thomas Monticelli, French, 1824-1886",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-3/8 x 14-13/16 in. (16.2 x 35.1 cm.); Frame: 12-3/16 x 20-5/8 x 1-1/2 in. (31 x 52.4 x 3.8 cm.)",
+            "Date": "n.d.",
+            "Painting": 15,
+            "Object Number: ": "1996.45.206 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Allegory"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "5-3/8 in. Diam.",
+            "Date": "1830",
+            "Painting": 16,
+            "Object Number: ": "1996.46.137 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Alphonse de Lamartine"
+        },
+        {
+            "Artist: ": "Marguerite G&eacute;rard, French, 1761-1837",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "12 x 9 1/2 in. (30.5 x 24.1 cm.)",
+            "Date": "c. 1787-1790",
+            "Painting": 17,
+            "Object Number: ": "1938.232 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "An Architect and His Family"
+        },
+        {
+            "Artist: ": "Rubens Santoro, Italian, 1859-1942",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "8-7/8 x 12-1/4 in. (22.6 x 31.1 cm.); Frame: 13-7/8 x 17-7/8 x 1-1/2 in. (35.3 x 45.4 x 3.8 cm.)",
+            "Date": "n.d.",
+            "Painting": 18,
+            "Object Number: ": "1996.45.244 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "An Outpost of Venice"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "24 x 36 1/2 in. (61 x 92.7 cm.) ",
+            "Date": "1922",
+            "Painting": 19,
+            "Object Number: ": "1950.248 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Anemones and Chinese Vase"
+        },
+        {
+            "Artist: ": "Pietro di Francesco Degli Orioli, Italian, 1458-1496",
+            "Medium: ": "Tempera with oil on wood panel",
+            "Dimensions: ": "12 3/4 x 8 1/2 in. (32.4 x 21.6 cm.)",
+            "Date": "early 1480s",
+            "Painting": 20,
+            "Object Number: ": "1962.16 ",
+            "Credit Line: ": "Gift of M. Knoedler &amp; Co. in Honor of Adelyn D. Breeskin",
+            "Title": "Angel Playing a Lute"
+        },
+        {
+            "Artist: ": "Fernand L&eacute;ger, French, 1881-1955",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "21 1/2 x 15 in. (54.6 x 38.1 cm.)",
+            "Date": "1921",
+            "Painting": 21,
+            "Object Number: ": "1963.16.11 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Animated Landscape"
+        },
+        {
+            "Artist: ": "Ferdinand Bol, Dutch, 1616-1680",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "32 x 27 in. (81.3 x 68.7 cm.)",
+            "Date": "1642",
+            "Painting": 22,
+            "Object Number: ": "1938.207 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Anna Maria von Schurmann"
+        },
+        {
+            "Artist: ": "Jean-Baptiste Greuze, French, 1725-1805",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "37 x 30 in. (94 x 76.2 cm.) ",
+            "Date": "c. 1759",
+            "Painting": 23,
+            "Object Number: ": "1938.198 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Anne-Marie de Bricqueville de Laluserne, Marquise de Bezons"
+        },
+        {
+            "Artist: ": "Sir Martin Archer Shee, Irish, 1769 - 1850",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "96 x 60 in. (243.9 x 152.5 cm.)",
+            "Date": "c. 1794",
+            "Painting": 25,
+            "Object Number: ": "1938.179 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Anthony Morris Storer, M.P."
+        },
+        {
+            "Artist: ": "Honor&eacute; Daumier, French, 1808-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "5 3/4 in. (14.6 cm.)",
+            "Date": "Original terra-cotta model, 1830-1832; this cast, c. 1929-1952",
+            "Painting": 26,
+            "Object Number: ": "1963.16.45 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Antoine Odier (1766-1853) (\"The Scornful One\")"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14-1/2 x 19 in. (36.9 x 48.3 cm.)",
+            "Date": "c. 1819",
+            "Painting": 27,
+            "Object Number: ": "1956.244 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Antonio"
+        },
+        {
+            "Artist: ": "Ernst Georg Fischer, German, 1815-1874; working Baltimore, c. 1845-c. 1855",
+            "Medium: ": "Oil on paper mounted on canvas",
+            "Dimensions: ": "11 x 12 in. (27.9 x 30.5 cm.)",
+            "Date": "1849",
+            "Painting": 28,
+            "Object Number: ": "1960.60 ",
+            "Credit Line: ": "Gift of Mrs. Michael A. Abrams, in Memory of Dr. Michael A. Abrams",
+            "Title": "Anxious Moment"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, greenish brown patina",
+            "Dimensions: ": "9-1/8 H x 10-3/4 L x 4-1/4 D in.",
+            "Date": "Original model n.d.; this cast 1888",
+            "Painting": 29,
+            "Object Number: ": "1996.46.56 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Ape Riding a Gnu"
+        },
+        {
+            "Artist: ": "Andr&eacute; Bauchant, French, 1873-1958",
+            "Medium: ": "Oil on canvas mounted on paperboard",
+            "Dimensions: ": "15 3/16 x 24 1/8 in. (38.6 x 61.3 cm.) ",
+            "Date": "1928",
+            "Painting": 30,
+            "Object Number: ": "1950.188 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Apollo"
+        },
+        {
+            "Artist: ": "Alexis Kreyder, French, 1839-1912",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "14-5/8 x 20-1/16 in. (37.2 x 51 cm.); Frame: 21-3/4 x 26-1/4 x 2 in. (55.3 x 66.7 x 5.1 cm.)",
+            "Date": "n.d.",
+            "Painting": 31,
+            "Object Number: ": "1996.45.154 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Apple Blossoms"
+        },
+        {
+            "Artist: ": "Alfred Mery, French, 1824-1896",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "19-1/4 x 39 in. (48.9 x 99.1 cm.); Frame: 27-3/8 x 47 x 2 in. (69.6 x 119.4 x 5.1 cm.)",
+            "Date": "1866",
+            "Painting": 32,
+            "Object Number: ": "1996.45.197 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Apple Boughs"
+        },
+        {
+            "Artist: ": "Armand Charnay, French, 1844-1916",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "9 11/16 x 13 3/16 in. (24.6 x 33.5 cm.).",
+            "Date": "n.d.",
+            "Painting": 33,
+            "Object Number: ": "1996.45.57 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "April Showers on Sunday Morning"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, red-orange-green-brown patina",
+            "Dimensions: ": "11-3/16 H x 13-13/16 W x 3-3/8 D in.",
+            "Date": "original model n.d., first edition c. 1874; this cast n.d.",
+            "Painting": 34,
+            "Object Number: ": "1974.25.1 ",
+            "Credit Line: ": "Gift of Mr. and Mrs. E. Bruce Baetjer",
+            "Title": "Arabian Thoroughbred"
+        },
+        {
+            "Artist: ": "Jean Beraud, French, 1849-1936",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "4-1/16 x 5-1/2 in. (10.3 x 14 cm.); Frame: 9-7/8 x 11-3/8 x 1-15/16 in. (25.1 x 28.9 x 5 cm.)",
+            "Date": "n.d.",
+            "Painting": 35,
+            "Object Number: ": "1996.45.22 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Arc de Triomphe and Champs Élysées"
+        },
+        {
+            "Artist: ": "Canaletto (Giovanni Antonio Canal), Italian, 1697-1768",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "41 1/2 x 41 in. (105.4 x 104.1 cm.)",
+            "Date": "c. 1754",
+            "Painting": 36,
+            "Object Number: ": "1938.194 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Architecture in Ruins"
+        },
+        {
+            "Artist: ": "Bercos, possibly French, dates unknown",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "2-3/4 in. high",
+            "Date": "n.d.",
+            "Painting": 38,
+            "Object Number: ": "1963.16.36 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Ashtray: Satyr with Outstretched Arms"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, red-brown patina",
+            "Dimensions: ": "5 1/2 x 8 x 2 3/4 in. (14 x 20.3 x 7 cm.)",
+            "Date": "Original model n.d., first edition 1857; this cast n.d.",
+            "Painting": 39,
+            "Object Number: ": "1996.46.79 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Asian Elephant"
+        },
+        {
+            "Artist: ": "Philippe Jacques de Loutherbourg, French, active in England, 1740-1812",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-13/16 x 8 in. (17.3 x 20.3 cm.); Frame: 13-1/4 x 14 x 2-1/4 in. (33.7 x 35.6 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 40,
+            "Object Number: ": "1996.45.192 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "At the Drinking Trough"
+        },
+        {
+            "Artist: ": "Jules H&eacute;reau, French, 1839-1879",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9-1/8 x 18-13/16 in. (23.2 x 47.8 cm.)",
+            "Date": "n.d.",
+            "Painting": 41,
+            "Object Number: ": "1996.45.131 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "At the Horseshoer's"
+        },
+        {
+            "Artist: ": "Antoine Emile Plassan, French, 1817-1903",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-1/8 x 3-7/8 in. (15.6 x 9.8 cm.); Frame: 13 x 10-3/4 x 1-3/4 in. (33 x 27.3 x 4.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 42,
+            "Object Number: ": "1996.45.222 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "At the Shrine"
+        },
+        {
+            "Artist: ": "Frederick William MacMonnies, American, 1863-1937",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "34 1/2 in. high (87.6 cm.)",
+            "Date": "1894",
+            "Painting": 43,
+            "Object Number: ": "1999.767 ",
+            "Credit Line: ": "Friends of Art Fund",
+            "Title": "Bacchante and Infant Faun"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "32 1/8 x 23 7/8 in. (81.6 x 60.6 cm.) ",
+            "Date": "1927",
+            "Painting": 44,
+            "Object Number: ": "1950.254 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Ballet Dancer Seated on a Stool"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14-1/2 x 19 in. (36.9 x 48.3 cm.)",
+            "Date": "1823",
+            "Painting": 45,
+            "Object Number: ": "1956.238 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Barefoot"
+        },
+        {
+            "Artist: ": "Honor&eacute; Daumier, French, 1808-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "8 1/4 in. (21 cm.)",
+            "Date": "Original terra-cotta model, 1830-1832; this cast, c. 1929-1952",
+            "Painting": 46,
+            "Object Number: ": "1963.16.53 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Baron Joseph de Podenas (1782-1851) (\"The Malicious Person of Importance\")"
+        },
+        {
+            "Artist: ": "Pierre Bonnard, French, 1867-1947",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "17 1/4 x 17 3/4 in. (43.8 x 45.1 cm.)",
+            "Date": "1924",
+            "Painting": 47,
+            "Object Number: ": "2005.141 ",
+            "Credit Line: ": "Gift of Mr. and Mrs. Anthony W. Deering, Baltimore",
+            "Title": "Basket of Fruit"
+        },
+        {
+            "Artist: ": "Jacques Loutchansky, French, 1876-1978",
+            "Medium: ": "Marble",
+            "Dimensions: ": "14 x 9 1/2 x 12 in. (35.6 x 24.1 x 30.5 cm.)",
+            "Date": "Early 20th century",
+            "Painting": 48,
+            "Object Number: ": "1950.418 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Bather"
+        },
+        {
+            "Artist: ": "Aristide Maillol, French, 1861-1944",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "31 3/8 x 11 x 13 in. (79.7 x 27.9 x 33 cm.)",
+            "Date": "Original model 1930; this cast 1930",
+            "Painting": 49,
+            "Object Number: ": "1950.420 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Bather Fixing Her Hair"
+        },
+        {
+            "Artist: ": "Paul C&eacute;zanne, French, 1839-1906",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "Unframed: 10 5/8 x 18 1/8 in. (27 x 46 cm.) Framed: 16 x 23 1/2 x 3 1/2 in. (40.6 x 59.7 x 8.9 cm.)",
+            "Date": "1898-1900",
+            "Painting": 50,
+            "Object Number: ": "1950.195 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Bathers"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "8-1/2 x 9-3/4 in. (21.6 x 24.8 cm.)",
+            "Date": "c. 1836",
+            "Painting": 51,
+            "Object Number: ": "1956.263 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Bay Middleton"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, golden brown patina",
+            "Dimensions: ": "Overall: 4 1/2 x 5 1/2 x 3 5/8 in.",
+            "Date": "original model 1832; this cast probably 1876 or 1882",
+            "Painting": 52,
+            "Object Number: ": "1996.46.10 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Bear in His Trough"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14-1/4 x 18-1/8 in. (36.2 x 46.1 cm.)",
+            "Date": "1843",
+            "Painting": 53,
+            "Object Number: ": "1956.251 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Beeswing"
+        },
+        {
+            "Artist: ": " After Jean-Antoine Houdon, French, 1741-1828",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "c. 30 in. H",
+            "Date": "n.d.",
+            "Painting": 54,
+            "Object Number: ": "1949.75 ",
+            "Credit Line: ": "Gift of the City of Baltimore, Department of Recreation and Parks",
+            "Title": "Benjamin Franklin"
+        },
+        {
+            "Artist: ": "Joan Mir&oacute;, Spanish, 1893-1983",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "5 in. H (12.7 cm.)",
+            "Date": "1946",
+            "Painting": 55,
+            "Object Number: ": "1951.386 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Bird"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "10 x 12 in. (25.4 x 30.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 56,
+            "Object Number: ": "1956.272 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Blacklock"
+        },
+        {
+            "Artist: ": "Harry Hall, English, c. 1814-c. 1886",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "12-1/2 x 17 in. (31.8 x 43.2 cm.)",
+            "Date": "1842",
+            "Painting": 57,
+            "Object Number: ": "1956.235 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Blue Bonnet"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "36 1/4 x 55 1/4 in. (92.1 x 140.3 cm.) ",
+            "Date": "1907",
+            "Painting": 58,
+            "Object Number: ": "1950.228 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Blue Nude"
+        },
+        {
+            "Artist: ": " Attributed to Johan Barthold Jongkind, Dutch, 1819-1891",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "(approx.) 5-9/16 x 9 in. (14.1 x 22.9 cm.)",
+            "Date": "n.d.",
+            "Painting": 59,
+            "Object Number: ": "1996.45.151 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Borders of the Seine at Passy"
+        },
+        {
+            "Artist: ": "Juan Gris, Spanish, 1887-1927",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "21 1/2 x 13 in. (54.6 x 33 cm.)",
+            "Date": "1918",
+            "Painting": 60,
+            "Object Number: ": "1951.305 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Bottle and Glass"
+        },
+        {
+            "Artist: ": "Pierre-Auguste Renoir, French, 1841-1919",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "21 7/8 x 18 3/16 in. (55.6 x 46.2 cm.) ",
+            "Date": "c. 1909",
+            "Painting": 61,
+            "Object Number: ": "1950.286 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Bouquet of Roses"
+        },
+        {
+            "Artist: ": "Moise Kisling, French, born Poland, 1891-1953",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "16 1/4 x 13 1/4 in. (41.3 x 33.7 cm.) ",
+            "Date": "1928",
+            "Painting": 62,
+            "Object Number: ": "1950.340 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Bouquet of Tulips with a Deep Blue Background"
+        },
+        {
+            "Artist: ": "Pierre Bonnard, French, 1867-1947",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "19 1/4 x 16 1/4 in. (48.9 x 41.3 cm.) ",
+            "Date": "1916",
+            "Painting": 63,
+            "Object Number: ": "1951.269 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Breakfast in the Garden"
+        },
+        {
+            "Artist: ": "Jacob Maris, Dutch, 1837-1899",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14-7/8 x 24-1/4 in. (37.8 x 61.6 cm.); Frame: 25-7/8 x 35-3/16 x 3 in. (65.7 x 89.4 x 7.6 cm.)",
+            "Date": "1868",
+            "Painting": 64,
+            "Object Number: ": "1996.45.196 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Breeze from the Sea"
+        },
+        {
+            "Artist: ": "Andr&eacute; Masson, French, 1896-1987",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "21-3/4 x 13-1/8 in.",
+            "Date": "1937",
+            "Painting": 65,
+            "Object Number: ": "1941.100 ",
+            "Credit Line: ": "Bequest of Blanche Adler",
+            "Title": "Brook in the Forest"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "18 1/4 in. (46.4 cm.)",
+            "Date": "Original model 1885-1886; this cast before 1964",
+            "Painting": 66,
+            "Object Number: ": "1964.26.6 ",
+            "Credit Line: ": "Gift of Wilton C. Dinges",
+            "Title": "Burgher of Calais (Jean de Fiennes)"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "11 in. (27.9 cm.)",
+            "Date": "Original model 1892-1893; this cast before 1953",
+            "Painting": 67,
+            "Object Number: ": "1953.149 ",
+            "Credit Line: ": "Gift of Mr. and Mrs. Sidney Lansburgh in Honor of Harry Greenstein's 25th Anniversary as Executive Director of the Associated Jewish Charities",
+            "Title": "Bust of Balzac"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "15 in. (38.1 cm.)",
+            "Date": "Original model 1892-1893; this cast before 1964",
+            "Painting": 68,
+            "Object Number: ": "1964.26.3 ",
+            "Credit Line: ": "Gift of Wilton C. Dinges",
+            "Title": "Bust of Balzac"
+        },
+        {
+            "Artist: ": "Alexandr&eacute; Guillemin, French, 1817-1880",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "5-1/2 x 4-1/2 in. (14 x 11.4 cm.); Frame: 12-13/16 x 11-3/4 x 2-1/2 in. (32.6 x 30 x 6.3 cm.)",
+            "Date": "n.d.",
+            "Painting": 69,
+            "Object Number: ": "1996.45.127 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "By the Fireside"
+        },
+        {
+            "Artist: ": "Th&eacute;odore Fr&egrave;re, French, 1814-1888",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "10-7/16 x 8-1/16 in. (26.5 x 39.1 cm.); Frame: 17-1/4 x 15-3/8 x 2-1/2 in. (43.8 x 39.1 x 6.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 70,
+            "Object Number: ": "1996.45.109 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Cairo Cafe"
+        },
+        {
+            "Artist: ": "Ren&eacute;e Sintenis, German, 1888-1965",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "6-1/2 in. H",
+            "Date": "n.d.",
+            "Painting": 71,
+            "Object Number: ": "1941.125 ",
+            "Credit Line: ": "Bequest of Blanche Adler",
+            "Title": "Camel"
+        },
+        {
+            "Artist: ": " Attributed to John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "27-3/4 x 36 in. (70.5 x 91.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 72,
+            "Object Number: ": "1956.237 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Camel"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "18-1/8 x 24 in. (46 x 61 cm.)",
+            "Date": "1862",
+            "Painting": 73,
+            "Object Number: ": "1944.118 ",
+            "Credit Line: ": "Bequest of Elise Agnus Daingerfield",
+            "Title": "Caractacus"
+        },
+        {
+            "Artist: ": "Louis Eugene Lambert, French, 1825-1900",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "5-5/8 x 9-1/16 in. (14.3 x 23 cm.); Frame: 13-15/16 x 17 x 2-1/4 in. (35.4 x 43.2 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 74,
+            "Object Number: ": "1996.45.158 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Cat and Frightened Rabbits"
+        },
+        {
+            "Artist: ": "Emile Van Marcke de Lummen, French, 1827-1890",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9 7/8 x 14 11/16 in. (25.1 x 37.3 cm.); Frame: 15 3/8 x 20 3/8 x 1 3/4 in. (39.1 x 51.8 x 4.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 75,
+            "Object Number: ": "1996.45.270 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Cattle"
+        },
+        {
+            "Artist: ": "Emile Van Marcke de Lummen, French, 1827-1890",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "10-1/2 x 13-7/8 in. (26.7 x 35.3 cm.); Frame: 19-3/4 x 23 x 2-3/4 in. (50.2 x 58.4 x 7 cm.)",
+            "Date": "n.d.",
+            "Painting": 76,
+            "Object Number: ": "1996.45.271 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Cattle Drinking"
+        },
+        {
+            "Artist: ": "Jean-Baptiste Berr&eacute;, Belgian, 1777-1838",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9-3/8 x 12-3/16 in. (23.8 x 31 cm.); Frame: 17-1/2 x 20 x 2-1/2 in. (44.5 x 50.8 x 6.4 cm.)",
+            "Date": "1817",
+            "Painting": 77,
+            "Object Number: ": "1996.45.23 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Cattle in a Landscape"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Silver-plated bronze, silver (tarnished) patina",
+            "Dimensions: ": "7-5/8 H x 6-13/16 L x 2-15/16 D in.",
+            "Date": "Original model c. 1870, first edition c. 1870; this cast n.d.",
+            "Painting": 78,
+            "Object Number: ": "1996.46.103 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Caucasian Warrior"
+        },
+        {
+            "Artist: ": "Claude Monet, French, 1840-1926",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "25 5/8 x 39 1/2 in. (65.1 x 100.3 cm.)",
+            "Date": "1899-1904",
+            "Painting": 80,
+            "Object Number: ": "1945.94 ",
+            "Credit Line: ": "The Helen and Abram Eisenberg Collection",
+            "Title": "Charing Cross Bridge, Reflections on the Thames"
+        },
+        {
+            "Artist: ": "John Wollaston, English, c. 1710-after 1775",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "50 1/8 x 40 3/16 in. (127.3 x 102.1 cm.) ",
+            "Date": "1753-1754",
+            "Painting": 81,
+            "Object Number: ": "2008.27 ",
+            "Credit Line: ": "Bequest of Caroline T. Fisher, Baltimore",
+            "Title": "Charles Carroll of Annapolis"
+        },
+        {
+            "Artist: ": "Honor&eacute; Daumier, French, 1808-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "5 3/4 in. (14.6 cm.)",
+            "Date": "Original terra-cotta model, 1830-1832; this cast, c. 1929-1952",
+            "Painting": 82,
+            "Object Number: ": "1963.16.51 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Charles François Comte de Lameth (1752-1832) (\"The Indecisive One\")"
+        },
+        {
+            "Artist: ": "Honor&eacute; Daumier, French, 1808-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "6 1/8 in. (15.6 cm.)",
+            "Date": "Original terra-cotta model, 1830-1832; this cast, c. 1929-1952",
+            "Painting": 83,
+            "Object Number: ": "1963.16.49 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Charles Philipon (1800-1862) (\"The Toothless Laugher\")"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze cast profile portrait medallion",
+            "Dimensions: ": "5-1/8 in. Diam.",
+            "Date": "1830",
+            "Painting": 84,
+            "Object Number: ": "1996.46.128 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Chateaubriand"
+        },
+        {
+            "Artist: ": "Fran&ccedil;ois Rivoire, French, 1842-1919",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "10-11/16 x 8-5/16 in. (27.2 x 21.1 cm.); Frame: 17-3/4 x 15-5/8 x 2-1/4 in. (45.1 x 39.7 x 5.7 cm.)",
+            "Date": "1869",
+            "Painting": 85,
+            "Object Number: ": "1996.45.232 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Cherries"
+        },
+        {
+            "Artist: ": "Pierre-Auguste Renoir, French, 1841-1919",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "24 1/2 x 19 1/4 in. (62.2 x 48.9 cm.)",
+            "Date": "c. 1875",
+            "Painting": 86,
+            "Object Number: ": "1976.55.8 ",
+            "Credit Line: ": "The Helen and Abram Eisenberg Collection",
+            "Title": "Child with Hoop"
+        },
+        {
+            "Artist: ": "Max Ernst, French, born Germany, 1891-1976",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "9 1/2 x 7 1/2 in. (24.1 x 19.1 cm.) ",
+            "Date": "1940",
+            "Painting": 87,
+            "Object Number: ": "1951.296 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Chimeras in the Mountains"
+        },
+        {
+            "Artist: ": "Charles Delfort, French, 1841-1895",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "12-7/8 x 9-1/8 in. (32.7 x 23.2 cm.); Frame: 17 x 13-1/2 x 2 in. (45.2 x 34.3 x 5.1 cm.)",
+            "Date": "1888?",
+            "Painting": 88,
+            "Object Number: ": "1996.45.82 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Choir Stalls, Church of Thun, Alsace"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "3 7/8 x 5 3/4 x 3/8 in. (9.8 x 14.6 cm.)",
+            "Date": "Original model 1831, first edition c. 1845; this cast n.d.",
+            "Painting": 90,
+            "Object Number: ": "1996.46.118 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Civet Cat Carrying a Bird"
+        },
+        {
+            "Artist: ": "Narcisse-Virgile Diaz de la Pe&ntilde;a, French, 1807-1876",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "21 x 28 in. (53.4 x 71.1 cm.)",
+            "Date": "1863",
+            "Painting": 91,
+            "Object Number: ": "1967.36.2 ",
+            "Credit Line: ": "The Helen and Abram Eisenberg Collection",
+            "Title": "Clearing in the Forest"
+        },
+        {
+            "Artist: ": "F&eacute;lix Fran&ccedil;ois Georges Philbert Ziem, French, 1821-1911",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "12-3/8 x 7-5/16 in. (31.4 x 18.6 cm.); Frame: 16 x 11 x 1-1/4 in. (40.7 x 28 x 3.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 92,
+            "Object Number: ": "1996.45.291 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Color Scheme"
+        },
+        {
+            "Artist: ": "Adolphe Joseph Thomas Monticelli, French, 1824-1886",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9-11/16 x 7-7/16 in. (24.6 x 18.9 cm.); Frame: 13-1/16 x 10-7/8 x 1-1/4 in. (33.2 x 27.6 x 3.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 93,
+            "Object Number: ": "1996.45.207 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Color Scheme for a Picture (Two Young Women in a Landscape)"
+        },
+        {
+            "Artist: ": "Piet Mondrian, Dutch, 1872-1944",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "15 1/8 x 14 in. (38.4 x 35.6 cm.) ",
+            "Date": "1927",
+            "Painting": 94,
+            "Object Number: ": "1951.343 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Composition V"
+        },
+        {
+            "Artist: ": "Maurice de Vlaminck, French, 1876-1958",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "16 x 12 3/8 in. (40.6 x 31.4 cm.)",
+            "Date": "1911",
+            "Painting": 95,
+            "Object Number: ": "1956.224 ",
+            "Credit Line: ": "Gift of Mr. and Mrs. Albert Lion, Jr.",
+            "Title": "Compote with Fruit"
+        },
+        {
+            "Artist: ": "Jean-Baptiste Greuze, French, 1725-1805",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "24 5/8 x 19 1/2 in. (62.5 x 49.5 cm.)",
+            "Date": "1791",
+            "Painting": 96,
+            "Object Number: ": "1961.7 ",
+            "Credit Line: ": "Presented by The William Randolph Hearst Foundation, in Memory of William Randolph Hearst",
+            "Title": "Comtesse Mollien as a Child"
+        },
+        {
+            "Artist: ": "Paul Cornet, French, 1892-1977",
+            "Medium: ": "Gilt bronze",
+            "Dimensions: ": "20 in. H",
+            "Date": "n.d.",
+            "Painting": 97,
+            "Object Number: ": "1941.121 ",
+            "Credit Line: ": "Gift of Blanche Adler",
+            "Title": "Coralie"
+        },
+        {
+            "Artist: ": "Antonio Pascutti, Italian, 1832-1892",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-9/16 x 3-1/4 in. (16.7 x 8.3 cm.); Frame: 8-3/16 x 5-1/16 x 5/8 in. (20.8 x 12.9 x 1.6 cm.)",
+            "Date": "1876",
+            "Painting": 98,
+            "Object Number: ": "1996.45.218 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Costume Study"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "10-1/2 x 13-1/4 in. (26.7 x 33.7 cm.); Frame: 16 x 18-3/4 x 1-1/2 in. (40.6 x 47.6 x 3.8 cm.)",
+            "Date": "n.d.",
+            "Painting": 99,
+            "Object Number: ": "1996.45.14 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Cougar Attacking a Deer"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, black patina",
+            "Dimensions: ": "7-1/2 H x 16-1/2 L x 9-1/2 D in.",
+            "Date": "Original model n.d., first edition after 1845; this cast n.d.",
+            "Painting": 102,
+            "Object Number: ": "1996.46.47 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Crocodile Devouring an Antelope"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "10 3/8 x 9 7/16 x 5 5/8 in. (26.4 x 24 x 14.3 cm.)",
+            "Date": "Original model 1918-1919; this cast 1930",
+            "Painting": 103,
+            "Object Number: ": "1950.435 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Crouching Venus"
+        },
+        {
+            "Artist: ": "Unknown Artist, English",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "20 x 24 in. (50.8 x 61 cm.)",
+            "Date": "n.d.",
+            "Painting": 104,
+            "Object Number: ": "1956.276 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Crucifix"
+        },
+        {
+            "Artist: ": "Andr&eacute; Bauchant, French, 1873-1958",
+            "Medium: ": "Oil on canvas mounted on paperboard",
+            "Dimensions: ": "25 3/16 x 19 1/2 in. (64 x 49.5 cm.) ",
+            "Date": "1925",
+            "Painting": 105,
+            "Object Number: ": "1950.311 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Cyclamen"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze cast profile portrait medallion",
+            "Dimensions: ": "6 in. Diam.",
+            "Date": "1828",
+            "Painting": 106,
+            "Object Number: ": "1996.46.124 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "D.J. Larrey"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "6 1/4 in. (15.9 cm.)",
+            "Date": "Original model 1885; this cast before 1964",
+            "Painting": 107,
+            "Object Number: ": "1964.26.5 ",
+            "Credit Line: ": "Gift of Wilton C. Dinges",
+            "Title": "Danaid"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "13 x 7 1/8 x 5 in. (33 x 18.1 x 12.7 cm.)",
+            "Date": "Original model 1910-1911; this cast 1965",
+            "Painting": 108,
+            "Object Number: ": "2009.186 ",
+            "Credit Line: ": "Gift of Iris and B. Gerald Cantor Foundation ",
+            "Title": "Dance Movement, Pas de deux B"
+        },
+        {
+            "Artist: ": "Gino Severini, Italian, 1883-1966",
+            "Medium: ": "Oil and sequins on sculpted gesso on artist's canvasboard",
+            "Dimensions: ": "27 1/4 x 19 5/8 in. (69.2 x 49.8 cm.)",
+            "Date": "1912",
+            "Painting": 109,
+            "Object Number: ": "1957.6 ",
+            "Credit Line: ": "Gift of William A. Dickey, Jr.",
+            "Title": "Dancer at Pigalle's"
+        },
+        {
+            "Artist: ": "Edgar Degas, French, 1834-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "18 x 8 9/16 x 7 3/8 in. (45.7 x 21.7 x 18.7 cm.)",
+            "Date": "Original model 1882-1895; this cast 1919-1921",
+            "Painting": 110,
+            "Object Number: ": "1950.415 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Dancer Looking at the Sole of Her Right Foot"
+        },
+        {
+            "Artist: ": "Julio Gonzalez, Spanish, 1876-1942",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "19 1/2 x 11 1/2 x 4 in. (49.5 x 29.2 x 10.2 cm.)",
+            "Date": "c. 1937",
+            "Painting": 111,
+            "Object Number: ": "2009.190 ",
+            "Credit Line: ": "Ryda and Robert H. Levi Collection, Gift under the Will of Ryda H. Levi",
+            "Title": "Dancer Posing as a Daisy"
+        },
+        {
+            "Artist: ": "Edgar Degas, French, 1834-1917",
+            "Medium: ": "Gouache (or distemper), charcoal, and powdered gold on fabric (possibly linen)",
+            "Dimensions: ": "11 x 22 3/16 in. (27.9 x 56.4 cm.)",
+            "Date": "c. 1879",
+            "Painting": 112,
+            "Object Number: ": "1963.9 ",
+            "Credit Line: ": "Fanny B. Thalheimer Memorial Fund",
+            "Title": "Dancers (Fan Design)"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9-1/2 x 11-1/4 in. (24.1 x 28.6 cm.)",
+            "Date": "c. 1833",
+            "Painting": 113,
+            "Object Number: ": "1956.273 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Dangerous"
+        },
+        {
+            "Artist: ": "Sir William Beechey, English, 1753-1839",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "55 x 46 in. (139.7 x 116.9 cm.)",
+            "Date": "n.d.",
+            "Painting": 114,
+            "Object Number: ": "1944.115 ",
+            "Credit Line: ": "Bequest of Elise Agnus Daingerfield",
+            "Title": "David (or John?) Wedderburn"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, red-brown patina",
+            "Dimensions: ": "1-1/4 H x 3-1/2 L x 1-3/4 D in.",
+            "Date": "Original model n.d., first edition 1877; this cast n.d.",
+            "Painting": 115,
+            "Object Number: ": "1996.46.75 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Deer Fawn (head down)"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "4-3/4 x 6-7/8 in. (12.1 x 17.5 cm.); Frame: 8-7/8 x 11 x 2-1/2 in. (22.5 x 27.9 x 6.3 cm.)",
+            "Date": "n.d.",
+            "Painting": 116,
+            "Object Number: ": "1996.45.16 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Deer on Mountainside"
+        },
+        {
+            "Artist: ": "Alexandre Thiollet, French, 1824-1895",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "8-3/16 x 17-1/16 in. (20.8 x 43.5 cm.); Frame: 15-3/8 x 24-1/16 x 2-1/8 in. (39.1 x 61.1 x 5.4 cm.)",
+            "Date": "1870s",
+            "Painting": 117,
+            "Object Number: ": "1996.45.256 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Departure of the Fishing Fleet from Villerville"
+        },
+        {
+            "Artist: ": "Charles Despiau, French, 1874-1946",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "24 7/8&quot;",
+            "Date": "c. 1927",
+            "Painting": 118,
+            "Object Number: ": "1951.374 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Diana"
+        },
+        {
+            "Artist: ": "Cornelis van Poelenburch, Dutch, 1594/95-1667; born and died in Utrecht, working in Italy 1617-1627",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "12 1/2 x 17 in. (31.8 x 43.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 119,
+            "Object Number: ": "1962.36 ",
+            "Credit Line: ": "Women's Committee Auction Fund from Gift of Julius Carlebach, Bequest of Randolph Mordecai, Frank J. and Elizabeth L. Goodnow Collection, Julius Levy Memorial Fund, and Mrs. Henry V. Ward Fund",
+            "Title": "Diana and Her Nymphs"
+        },
+        {
+            "Artist: ": " Attributed to George Stubbs, English, 1724-1806",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "24 x 29-3/4 in. (61 x 29-3/4 cm.)",
+            "Date": "n.d.",
+            "Painting": 120,
+            "Object Number: ": "1956.284 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Diomed(?)"
+        },
+        {
+            "Artist: ": "Eugene Villain, French, born 1821",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "Overall: 7 5/8 x 12 1/4 in. (19.4 x 31.1 cm.) Framed: 15 x 20 1/8 x 2 1/2 in. (38.1 x 51.1 x 6.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 121,
+            "Object Number: ": "1996.45.281 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Dish with Fruit"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "3-3/8 H x 6 L x 2-3/8 D in.",
+            "Date": "original model 1840; this cast n.d.",
+            "Painting": 122,
+            "Object Number: ": "1960.34 ",
+            "Credit Line: ": "Gift of Mrs. William J. Casey, in Memory of William J. Casey",
+            "Title": "Doe Reclining"
+        },
+        {
+            "Artist: ": "Francisco Jos&eacute; de Goya y Lucientes, Spanish, 1746-1828",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "38 x 28 1/2 in. (96.5 x 72.4 cm.)",
+            "Date": "c. 1808",
+            "Painting": 123,
+            "Object Number: ": "1951.122 ",
+            "Credit Line: ": "The Jacob Epstein Collection",
+            "Title": "Don Antonio Raimundo Ibáñez"
+        },
+        {
+            "Artist: ": "Frans Hals, Dutch, c. 1582 - 1666",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "33 x 27 1/2 in. (83.8 x 69.9 cm.)",
+            "Date": "1644",
+            "Painting": 124,
+            "Object Number: ": "1938.231 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Dorothea Berck, Wife of Joseph Coymans"
+        },
+        {
+            "Artist: ": "Thomas Gainsborough, English, 1727-1788",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "29-3/4 x 24-3/4 in. (75.6 x 62.9 cm.)",
+            "Date": "n.d.",
+            "Painting": 125,
+            "Object Number: ": "1972.28 ",
+            "Credit Line: ": "Bequest of Lucy Ridgely Seymer",
+            "Title": "Dr. Benjamin Buckler"
+        },
+        {
+            "Artist: ": "Ernst Georg Fischer, German, 1815-1874; working Baltimore, c. 1845-c. 1855",
+            "Medium: ": "Oil on canvas mounted on board",
+            "Dimensions: ": "7 7/8 x 8 7/8 in. (20 x 22.6 cm.)",
+            "Date": "c. 1850",
+            "Painting": 126,
+            "Object Number: ": "1955.190 ",
+            "Credit Line: ": "Gift of Dr. and Mrs. Michael A. Abrams",
+            "Title": "Dr. Emondson and Family"
+        },
+        {
+            "Artist: ": "Edgar Degas, French, 1834-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "4 in. H",
+            "Date": "Original wax and clay, 1865-1881; H&eacute;brard cast, 1919-1921",
+            "Painting": 127,
+            "Object Number: ": "1950.414 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Draught Horse"
+        },
+        {
+            "Artist: ": "Th&eacute;ophile-Victor-Emile Lemmens, French, 1821-1867",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "3-1/8 x 6-1/4 in. (7.9 x 15.9 cm.); Frame: 9-1/4 x 12-3/8 x 1-3/4 in. (23.5 x 31.4 x 4.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 128,
+            "Object Number: ": "1996.45.169 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Duck Pond"
+        },
+        {
+            "Artist: ": "Edouard-Marcel Sandoz, Swiss, 1881-1971",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "3 3/4 x 3 1/2 x 2 1/4 in. (9.5 x 8.9 x 5.7 cm.)",
+            "Date": "Early 20th century",
+            "Painting": 129,
+            "Object Number: ": "2012.63 ",
+            "Credit Line: ": "Bequest of Constance D. Bendann, Baltimore",
+            "Title": "Duckling"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown patina",
+            "Dimensions: ": "5 H x 7-1/2 W in.",
+            "Date": "Original model 1824-1826?; this cast n.d.",
+            "Painting": 130,
+            "Object Number: ": "1996.46.112 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Eagle with Chamois"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, gold-brown patina",
+            "Dimensions: ": "4-1/8 H x 6-1/4 W x 9/16 D in.",
+            "Date": "Original model 1824-1826?; this cast n.d.",
+            "Painting": 131,
+            "Object Number: ": "1996.46.115 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Eagle with Serpent"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, light red-brown patina",
+            "Dimensions: ": "4-1/16 H x 5-15/16 W x 5/16 D in.",
+            "Date": "Original model 1824-1826?; this cast n.d.",
+            "Painting": 132,
+            "Object Number: ": "1996.46.121 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Eagle with Serpent"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, red-brown patina",
+            "Dimensions: ": "9-13/16 H x 13-1/4 L (wing tip to wing tip) x 9-5/8 D in.",
+            "Date": "Original model n.d., first edition c. 1862; this cast n.d.",
+            "Painting": 133,
+            "Object Number: ": "1996.46.88 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Eagle, Wings Extended, Beak Open"
+        },
+        {
+            "Artist: ": "Jean Charles Cazin, French, 1841-1901",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "8-3/4 x 10-3/4 in. (22.2 x 27.3 cm.); Frame: 14-1/2 x 16-1/2 x 2 in.",
+            "Date": "n.d.",
+            "Painting": 134,
+            "Object Number: ": "1996.45.56 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Early Evening"
+        },
+        {
+            "Artist: ": "Max Ernst, French, born Germany, 1891-1976",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "10 1/4 x 18 1/4 in. (26 x 46.4 cm.)",
+            "Date": "1948",
+            "Painting": 135,
+            "Object Number: ": "1951.297 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Earthquake, Late Afternoon"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14-1/2 x 19 in. (36.9 x 48.3 cm.)",
+            "Date": "c. 1817",
+            "Painting": 136,
+            "Object Number: ": "1956.240 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Ebor"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown patina",
+            "Dimensions: ": "10-3/8 H x 9-5/8 W x 3-3/8 D in.",
+            "Date": "Original model n.d.; this cast possibly 1884",
+            "Painting": 137,
+            "Object Number: ": "1996.46.48 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Egyptian Dromedary with Harness"
+        },
+        {
+            "Artist: ": "Jean-Marc Nattier, French, 1685-1766",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "53 1/4 x 41 1/2 in. (135.3 x 105.4 cm.)",
+            "Date": "1752",
+            "Painting": 138,
+            "Object Number: ": "1938.181 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Élisabeth Rigoley d'Ogny as Aurora"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Aluminum",
+            "Dimensions: ": "6-3/8 H x 7-3/16L x 2-1/4 D in.",
+            "Date": "Original model c. 1830; this cast n.d.",
+            "Painting": 139,
+            "Object Number: ": "1996.46.102 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Elk Standing"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, green-brown-gold patina",
+            "Dimensions: ": "9-3/16 H x 15-1/4 L x 6-5/8 D in.",
+            "Date": "original model 1841; this cast 1876-1889",
+            "Painting": 140,
+            "Object Number: ": "1996.46.8 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Elk Suprised by a Lynx"
+        },
+        {
+            "Artist: ": "Raphael [Raffaello Santi], Italian, 1483-1520",
+            "Medium: ": "Oil and possibly tempera on wood panel",
+            "Dimensions: ": "16 3/4 x 11 1/4 in. (42.5 x 28.6 cm.)",
+            "Date": "c. 1502-1504",
+            "Painting": 141,
+            "Object Number: ": "1951.114 ",
+            "Credit Line: ": "The Jacob Epstein Collection",
+            "Title": "Emilia Pia da Montefeltro"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown patina",
+            "Dimensions: ": "4-1/2 H x 6 L x 2-1/4 D in.",
+            "Date": "Original model n.d.; this cast possibly 1838-1875",
+            "Painting": 142,
+            "Object Number: ": "1996.46.63 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "English Basset No. 2"
+        },
+        {
+            "Artist: ": "Albert Marquet, French, 1875-1947",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "12 13/16 x 16 1/8 in. (32.5 x 41 cm.) ",
+            "Date": "1925",
+            "Painting": 143,
+            "Object Number: ": "1950.219 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Entrance of the Canal at Hesnes"
+        },
+        {
+            "Artist: ": "Louis Emile Villa, French, born 1836",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "3-3/4 x 7-1/8 in. (9.5 x 18.1 cm.); Frame: 12-1/2 x 16 x 2-1/4 in. (31.8 x 40.7 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 144,
+            "Object Number: ": "1996.45.280 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Entrapped"
+        },
+        {
+            "Artist: ": "Marie Ferdinand Jacomin, French, c. 1843-1902",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "12-9/16 x 16-1/8 in. (31.9 x 41 cm.); Frame: 20-3/4 x 23-7/8 x 2-1/2 in. (52.7 x 60.7 x 6.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 146,
+            "Object Number: ": "1996.45.140 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Environs of the Forest of St. Germain"
+        },
+        {
+            "Artist: ": "Jean-Baptiste-Camille Corot, French, 1796-1875",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "12-7/8 x 16-1/16 in. (32.7 x 40.8 cm.); Frame: 21 x 24-1/8 x 2-3/4 in. (53.4 x 61.3 x 7 cm.)",
+            "Date": "c. 1860",
+            "Painting": 147,
+            "Object Number: ": "1996.45.65 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Environs of Ville D'Avray"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "16 in. (40.6 cm.)",
+            "Date": "n.d.",
+            "Painting": 148,
+            "Object Number: ": "1964.26.2 ",
+            "Credit Line: ": "Gift of Wilton C. Dinges",
+            "Title": "Eternal Spring"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown patina",
+            "Dimensions: ": "3-3/8 H x 4-1/4 L x 1-3/4 D in.",
+            "Date": "Original model 1834; this cast possibly 1838-1875",
+            "Painting": 149,
+            "Object Number: ": "1996.46.81 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Ethiopian Gazelle"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on artist's canvasboard",
+            "Dimensions: ": "14 15/16 x 18 in. (37.9 x 45.7 cm.) ",
+            "Date": "1920",
+            "Painting": 150,
+            "Object Number: ": "1950.235 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Étretat, the Beach"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on artist's canvasboard",
+            "Dimensions: ": "12 7/8 x 16 1/16 in. (32.7 x 40.8 cm.) ",
+            "Date": "1918",
+            "Painting": 151,
+            "Object Number: ": "1950.231 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Eucalyptus, Montalban"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze cast profile portrait medallion",
+            "Dimensions: ": "5 in. Diam.",
+            "Date": "1828",
+            "Painting": 152,
+            "Object Number: ": "1996.46.125 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Eugene F.M.J. Deveria"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "Overall: 29 15/16 x 9 5/16 x 11 7/16 in. (76 x 23.6 x 29 cm.)",
+            "Date": "original model 1883; this cast before 1927",
+            "Painting": 153,
+            "Object Number: ": "1951.129 ",
+            "Credit Line: ": "The Jacob Epstein Collection",
+            "Title": "Eve (Reduction B)"
+        },
+        {
+            "Artist: ": "Christian Adolf Schreyer, German, 1828 - 1899",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14 x 25-1/2 in.; framed: 22 x 33-3/8 x 3 in.",
+            "Date": "n.d.",
+            "Painting": 155,
+            "Object Number: ": "2002.637 ",
+            "Credit Line: ": "Gift of Stiles Tuttle Colwill, Lutherville, Maryland",
+            "Title": "Farm Scene"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14-1/8 x 18-1/8 in. (35.9 x 46.1 cm.)",
+            "Date": "1844",
+            "Painting": 156,
+            "Object Number: ": "1956.265 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Faugh-a-Ballagh"
+        },
+        {
+            "Artist: ": "Philibert Leon Couturier, French, 1823-1901",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "8-13/16 x 5-1/2 in. (22.4 x 14 cm.); Frame: 12-5/8 x 9-1/2 x 1-3/4 in. (32.1 x 24.1 x 4.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 157,
+            "Object Number: ": "1996.45.73 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Feeding the Cock"
+        },
+        {
+            "Artist: ": "Joseph Bernard, French, 1866-1931",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "10-7/8 in. high",
+            "Date": "n.d.",
+            "Painting": 158,
+            "Object Number: ": "1963.16.37 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Female Torso"
+        },
+        {
+            "Artist: ": "Jules Jaques Veyrassat, French, 1828-1893",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-3/4 x 12-3/8 in. (17.2 x 31.4 cm.); Frame: 16-1/8 x 21-5/8 x 2-1/2 in. (41 x 54.9 x 6.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 159,
+            "Object Number: ": "1996.45.274 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Ferry on the Marne"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "25 7/8 x 36 5/8 in. (65.7 x 93 cm.) ",
+            "Date": "1922",
+            "Painting": 160,
+            "Object Number: ": "1950.240 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Festival of Flowers"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "18 x 23-1/2 in.",
+            "Date": "1862",
+            "Painting": 161,
+            "Object Number: ": "1944.119 ",
+            "Credit Line: ": "Bequest of Elise Agnus Daingerfield",
+            "Title": "Feu de Joi"
+        },
+        {
+            "Artist: ": "Mirko [Mirko Basaldella], Italian, 1910-1969",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "10 in. H",
+            "Date": "1956",
+            "Painting": 162,
+            "Object Number: ": "1964.11.28 ",
+            "Credit Line: ": "Bequest of Mabel Garrison Siemonn, in Memory of her Husband George Siemonn",
+            "Title": "Figure a Incastro"
+        },
+        {
+            "Artist: ": "Aim&eacute;-Jules Dalou, French, 1838-1902",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "3-3/4 in. high",
+            "Date": "19th Century",
+            "Painting": 163,
+            "Object Number: ": "1963.16.41 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Figure Carrying a Sack"
+        },
+        {
+            "Artist: ": "Aim&eacute;-Jules Dalou, French, 1838-1902",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "4-1/4 in. high",
+            "Date": "19th Century",
+            "Painting": 164,
+            "Object Number: ": "1963.16.43 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Figure Carrying Basket"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "13 in. (33 cm.)",
+            "Date": "Original model 1877",
+            "Painting": 165,
+            "Object Number: ": "1964.26.7 ",
+            "Credit Line: ": "Gift of Wilton C. Dinges",
+            "Title": "Figure I from \"Vase of the Titans\""
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "9 3/4 in. (24.8 cm.)",
+            "Date": "Original model 1877; this cast before 1964",
+            "Painting": 166,
+            "Object Number: ": "1964.26.9 ",
+            "Credit Line: ": "Gift of Wilton C. Dinges",
+            "Title": "Figure II from \"Vase of the Titans\""
+        },
+        {
+            "Artist: ": "Alfred Alboy-Rebouet, French, 1841-1875",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "23-7/8 x 11-5/8 in. (60.7 x 29.5 cm.); Frame: 28-3/8 x 16-3/8 x 1-3/4 in. (72.1 x 41.6 x 4.4 cm.)",
+            "Date": "1874",
+            "Painting": 167,
+            "Object Number: ": "1996.45.1 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Figure in Blue"
+        },
+        {
+            "Artist: ": "Charles-Octave Levy, French, died 1899",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "20-3/8 in. high",
+            "Date": "n.d.",
+            "Painting": 168,
+            "Object Number: ": "1963.21.16 ",
+            "Credit Line: ": "James Perry Wilcox and Adele Von H. Wilcox Collection",
+            "Title": "Figure of Girl 'La Paix'"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "5 1/4 x 10 1/2 x 4 1/8 in. (13.3 x 26.7 x 10.5 cm.)",
+            "Date": "Original model 1918; this cast c. 1925",
+            "Painting": 169,
+            "Object Number: ": "1950.433 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Figure with Cushion"
+        },
+        {
+            "Artist: ": "Joan Mir&oacute;, Spanish, 1893-1983",
+            "Medium: ": "Tempera on Masonite",
+            "Dimensions: ": "10 7/8 x 19 1/2 in. (27.6 x 49.5 cm.) ",
+            "Date": "1935",
+            "Painting": 170,
+            "Object Number: ": "1951.340 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Figures and Birds in a Landscape"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14-1/2 x 19 in. (36.9 x 48.3 cm.)",
+            "Date": "c. 1815",
+            "Painting": 171,
+            "Object Number: ": "1956.258 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Filho da Puta"
+        },
+        {
+            "Artist: ": "Jacob Epstein, English, 1880-1959",
+            "Medium: ": "Marble",
+            "Dimensions: ": "48 1/2 x 16 x 11 3/4 in. (123.2 x 40.6 x 29.8 cm.)",
+            "Date": "1913-1914",
+            "Painting": 172,
+            "Object Number: ": "1966.55.7 ",
+            "Credit Line: ": "Alan and Janet Wurtzburger Collection",
+            "Title": "First Venus"
+        },
+        {
+            "Artist: ": "F&eacute;lix Vallotton, French, born Switzerland, 1865-1925",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "18 5/16 x 21 13/16 in. (46.5 x 55.4 cm.) ",
+            "Date": "1925",
+            "Painting": 173,
+            "Object Number: ": "1950.374 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Fish and Lemon"
+        },
+        {
+            "Artist: ": "Alexandre Thiollet, French, 1824-1895",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "24-1/16 x 13-5/8 in. (61.1 x 34.6 cm.); Frame: 28-15/16 x 18-3/4 x 1 in. (73.5 x 47.6 x 2.5 cm.)",
+            "Date": "1883",
+            "Painting": 174,
+            "Object Number: ": "1996.45.258 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Fisherwoman of Villerville"
+        },
+        {
+            "Artist: ": "Alexandre Thiollet, French, 1824-1895",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9-1/2 x 6-15/16 in. (24.1 x 17.6 cm.); Frame: 16-3/8 x 13-3/4 x 2-1/4 in. (41.6 x 34.9 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 175,
+            "Object Number: ": "1996.45.259 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Fisherwoman of Villerville"
+        },
+        {
+            "Artist: ": "Pierre Paul L&eacute;on Glaize, French, 1842-1932",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "23-7/8 x 13-9/16 in. (60.7 x 34.5 cm.); Frame: 28-7/8 x 18-7/8 x 1-1/8 in. (73.4 x 48 x 2.9 cm.)",
+            "Date": "n.d.",
+            "Painting": 176,
+            "Object Number: ": "1996.45.114 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Fishing"
+        },
+        {
+            "Artist: ": "Alexandre Thiollet, French, 1824-1895",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "4-11/16 x 8-1/16 in. (11.9 x 20.5 cm.); Frame: 11-1/2 x 14-7/8 x 2-1/4 in. (29.2 x 37.8 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 177,
+            "Object Number: ": "1996.45.260 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Fishing Boats"
+        },
+        {
+            "Artist: ": "Ernst Ludwig Kirchner, German, 1880-1938",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "30 1/2 x 37 1/4 in. (77.5 x 94.6 cm.)",
+            "Date": "c. 1910",
+            "Painting": 178,
+            "Object Number: ": "1953.33 ",
+            "Credit Line: ": "Gift of Curt Valentin Gallery, Inc.",
+            "Title": "Flower Beds in the Dresden Gardens [recto]; Nude (Portrait of Dodo) [verso]"
+        },
+        {
+            "Artist: ": "Edward Barnard Lintott, English, 1875-1951",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "29 x 20 in. (73.7 x 50.8 cm.)",
+            "Date": "c. 1940",
+            "Painting": 179,
+            "Object Number: ": "1950.346 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Flower Pots"
+        },
+        {
+            "Artist: ": "Louis Valtat, French, 1869-1952",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "24-1/4 x 19-7/8 in. (61.6 x 50.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 180,
+            "Object Number: ": "1964.11.20 ",
+            "Credit Line: ": "Bequest of Mabel Garrison Siemonn, in Memory of her Husband, George Siemonn",
+            "Title": "Flowers"
+        },
+        {
+            "Artist: ": "Antoine Pascal, French, 1809-1859",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "Unframed: 10 5/16 x 8 5/16 in. (26.2 x 21.1 cm.) Framed: 18 1/4 x 16 3/8 x 2 1/4 in. (46.4 x 41.6 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 181,
+            "Object Number: ": "1996.45.217 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Flowers"
+        },
+        {
+            "Artist: ": "Auguste Boulard, French, 1825-1897",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "20-3/8 x 17-1/2 in. (51.8 x 44.5 cm.); Frame: 27-5/8 x 24-3/4 x 2-1/2 in. (70.2 x 62.9 x 6.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 182,
+            "Object Number: ": "1996.45.39 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Flowers in a Vase"
+        },
+        {
+            "Artist: ": "Louis Joseph Raphael Collin, French, 1850-1916",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "34 1/4 x 13 5/16 in. (87 x 33.8 cm.) ",
+            "Date": "1875",
+            "Painting": 183,
+            "Object Number: ": "1996.45.59 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Flowers in a Vase"
+        },
+        {
+            "Artist: ": "Victor Vincelet, French, died 1871",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "18-3/8 x 12-7/8 in. (46.7 x 32.7 cm.); Frame: 23-1/4 x 18 x 1-1/4 in. (59.1 x 45.7 x 3.2 cm.)",
+            "Date": "1869",
+            "Painting": 184,
+            "Object Number: ": "1996.45.283 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Flowers in a Vase"
+        },
+        {
+            "Artist: ": "Unknown Artist, Austrian",
+            "Medium: ": "Wood, gilding, and paint",
+            "Dimensions: ": "23 x 17 1/2 x 12 in. (58.4 x 44.5 x 30.5 cm.)",
+            "Date": "17th century",
+            "Painting": 185,
+            "Object Number: ": "1962.41 ",
+            "Credit Line: ": "Saidie A. May Bequest Fund",
+            "Title": "Flying Angel Holding Imperial Crown and Sceptre"
+        },
+        {
+            "Artist: ": "Emil Cimiotti, German, born 1927",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "15 1/2 x 9 x 11 1/4 in. (39.4 x 22.9 x 28.6 cm.)",
+            "Date": "1959",
+            "Painting": 186,
+            "Object Number: ": "1965.37.6 ",
+            "Credit Line: ": "Gift of Richard and Marshall Miller, for the Samuel and Tobie Miller Memorial Collection",
+            "Title": "Forest"
+        },
+        {
+            "Artist: ": "Th&eacute;odore Rousseau, French, 1812-1867",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "12 3/4 x 21 5/8 in. (32.4 x 54.9 cm.) ",
+            "Date": "1850s",
+            "Painting": 187,
+            "Object Number: ": "1996.45.237 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Forest at Fontainebleau"
+        },
+        {
+            "Artist: ": "Th&eacute;odore Rousseau, French, 1812-1867",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "10 1/16 x 13 in. (25.6 x 33 cm.) ",
+            "Date": "1850s",
+            "Painting": 188,
+            "Object Number: ": "1996.45.238 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Forest of Fontainebleau"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "8-5/8 x 12-1/4 in. (21.9 x 31.1 cm.); Frame: 13-7/8 x 17-3/4 x 1-1/4 in. (35.2 x 45.1 x 3.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 189,
+            "Object Number: ": "1996.45.17 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Forest of Fontainebleau (Gorge of Apremont)"
+        },
+        {
+            "Artist: ": "Florent Willems, Belgian, 1823-1905",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "19 x 13-7/16 in. (48.3 x 34.2 cm.); Frame: 24-1/4 x 18-3/4 x 1-1/2 in. (61.6 x 47.6 x 3.8 cm.)",
+            "Date": "n.d.",
+            "Painting": 190,
+            "Object Number: ": "1996.45.290 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Forest of Fontainebleau, Camp de Chailly"
+        },
+        {
+            "Artist: ": "Marie Ferdinand Jacomin, French, c. 1843-1902",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "7-5/16 x 9-1/2 in. (18.6 x 24.1 cm.); Frame: 14-9/16 x 16-1/2 x 2-1/4 in. (37 x 41.9 x 5.7 cm.",
+            "Date": "n.d.",
+            "Painting": 191,
+            "Object Number: ": "1996.45.141 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Forest of St. Germain"
+        },
+        {
+            "Artist: ": "Edgar Degas, French, 1834-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "22 9/16 x 12 3/8 x 13 1/4 in. (57.3 x 31.4 x 33.7 cm.)",
+            "Date": "Original model 1882-1895; this cast 1919-1921",
+            "Painting": 192,
+            "Object Number: ": "1950.413 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Fourth Position Front, on the Left Leg"
+        },
+        {
+            "Artist: ": "Jean Nocret, French, 1615-1672",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "44 x 35 in. (111.8 x 88.9 cm.)",
+            "Date": "Before 1649",
+            "Painting": 193,
+            "Object Number: ": "1938.187 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "François de Vandosme, Duc de Beaufort"
+        },
+        {
+            "Artist: ": "Honor&eacute; Daumier, French, 1808-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "8 1/2 in. (21.6 cm.)",
+            "Date": "Original terra-cotta model, 1830-1832; this cast, c. 1929-1952",
+            "Painting": 194,
+            "Object Number: ": "1963.16.50 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "François Pierre-Guillaume Guizot (1787-1874) (\"The Bore\")"
+        },
+        {
+            "Artist: ": "Sir Anthony van Dyck, Flemish, 1599-1641",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "45 x 38 in. (114.3 x 96.5 cm.)",
+            "Date": "1628",
+            "Painting": 195,
+            "Object Number: ": "1938.217 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Frederick Henry, Prince of Orange"
+        },
+        {
+            "Artist: ": "Emile-Antoine Bourdelle, French, 1861-1929",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "90 x 38 x 24 in. (228.6 x 96.5 x 61 cm.)",
+            "Date": "Original model 1902-1911; this cast 1952",
+            "Painting": 196,
+            "Object Number: ": "1966.55.4 ",
+            "Credit Line: ": "Alan and Janet Wurtzburger Collection",
+            "Title": "Fruit"
+        },
+        {
+            "Artist: ": "Ren&eacute;e Sintenis, German, 1888-1965",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "4-5/8 in. high",
+            "Date": "n.d.",
+            "Painting": 197,
+            "Object Number: ": "1960.41.44 ",
+            "Credit Line: ": "Bequest of Philip B. Perlman",
+            "Title": "Galloping Horse"
+        },
+        {
+            "Artist: ": "Othon Coubine, French, born Czechoslovakia, 1883-1969",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "18 3/8 x 21 3/4 in. (46.7 x 55.2 cm.) ",
+            "Date": "c. 1928",
+            "Painting": 198,
+            "Object Number: ": "1950.319 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Garden in the Village"
+        },
+        {
+            "Artist: ": "Abraham Mignon, Dutch, born Germany, 1640-1679",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "20 1/2 x 26 1/4 in. (52.1 x 66.7 cm.)",
+            "Date": "Late 1660s",
+            "Painting": 199,
+            "Object Number: ": "1957.32 ",
+            "Credit Line: ": "Gift of William A. Dickey, Jr.",
+            "Title": "Garland of Fruit and Flowers"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown-green-red patina",
+            "Dimensions: ": "14 H x 11-1/4 L x 5-3/4 D in.",
+            "Date": "Original model n.d., first edition c. 1850-1852; this cast possibly 1876-1884",
+            "Painting": 200,
+            "Object Number: ": "1996.46.52 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Gaston de Foix"
+        },
+        {
+            "Artist: ": " After Augustin-Jean Moreau-Vauthier, French, 1831-1893",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "24 1/2 x 16 1/8 x 11 3/4 in. (62.2 x 41 x 29.8 cm.)",
+            "Date": "c. 1890",
+            "Painting": 201,
+            "Object Number: ": "1995.69 ",
+            "Credit Line: ": "Gift of Mr. and Mrs. Alan E. Behrend, Baltimore",
+            "Title": "George A. Lucas"
+        },
+        {
+            "Artist: ": "Augustin-Jean Moreau-Vauthier, French, 1831-1893",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "24 x 16 x 11 in. (61 x 40.6 x 27.9 cm.)",
+            "Date": "1890",
+            "Painting": 202,
+            "Object Number: ": "2006.48 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with the Nelson and Juanita Greif Gutman Fund, and contributions from The Maryland Institute College of Art and Ernest L. Flax",
+            "Title": "George A. Lucas"
+        },
+        {
+            "Artist: ": "Alexandre Cabanel, French, 1823-1889",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "21 3/4 x 18 in. (55.2 x 45.7 cm.)",
+            "Date": "1873",
+            "Painting": 203,
+            "Object Number: ": "1996.45.50 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "George A. Lucas (1824-1909)"
+        },
+        {
+            "Artist: ": "George Romney, English, 1734-1802",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "30 x 26 in. (76.2 x 66.0 cm.)",
+            "Date": "1780",
+            "Painting": 204,
+            "Object Number: ": "1938.210 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "George Hawkins, Surgeon to George III"
+        },
+        {
+            "Artist: ": " Studio of Sir Thomas Lawrence P.R.A., English, 1769-1830",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "116 x 80 in. (294.7 x 203.3 cm.)",
+            "Date": "1820-1830",
+            "Painting": 205,
+            "Object Number: ": "1938.174 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "George IV"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "6 1/4 in. (15.9 cm.)",
+            "Date": "1832",
+            "Painting": 206,
+            "Object Number: ": "1996.46.131 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Georges Cuvier"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze cast",
+            "Dimensions: ": "5-7/8 in. Diam.",
+            "Date": "1830",
+            "Painting": 207,
+            "Object Number: ": "1996.46.129 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Gericault"
+        },
+        {
+            "Artist: ": "F&eacute;lix Vallotton, French, born Switzerland, 1865-1925",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "39 1/2 x 32 in. (100.3 x 81.3 cm.) ",
+            "Date": "1907",
+            "Painting": 208,
+            "Object Number: ": "1950.300 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Gertrude Stein"
+        },
+        {
+            "Artist: ": "Pierre Tal-Coat, French, 1905-1985",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "29 x 23 1/8 in. (73.7 x 58.7 cm.)",
+            "Date": "1937",
+            "Painting": 209,
+            "Object Number: ": "1951.360 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Gertrude Stein"
+        },
+        {
+            "Artist: ": "Paul Seignac, French, 1826-1904",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "24-3/16 x 13-11/16 in. (61.5 x 34.8 cm.); Frame: 29 x 19 x 1 in. (73.7 x 48.3 x 2.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 211,
+            "Object Number: ": "1996.45.249 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Girl Carrying a Basket of Fruit"
+        },
+        {
+            "Artist: ": "Alfred Stevens, Belgian, 1823-1906",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "12-7/8 x 9-1/4 in. (30.7 x 23.5 cm.); Frame: 18-3/4 x 14-5/8 x 1-3/4 in. (46.7 x 37.2 x 4.4 cm.)",
+            "Date": "c. 1875-1880",
+            "Painting": 212,
+            "Object Number: ": "1996.45.253 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Girl Holding a Nosegay"
+        },
+        {
+            "Artist: ": "F&eacute;lix Fran&ccedil;ois Georges Philbert Ziem, French, 1821-1911",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "24-1/8 x 13-1/2 in. (61.3 x 34.3 cm.); Frame: 29-1/16 x 18-7/8 x 1 in. (73.8 x 48 x 1 cm.)",
+            "Date": "n.d.",
+            "Painting": 213,
+            "Object Number: ": "1996.45.292 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Girl in a Field"
+        },
+        {
+            "Artist: ": "Norbert Goeneutte, French, 1854-1894",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "18 1/16 x 21 3/4 in. (45.9 x 55.2 cm.) ",
+            "Date": "n.d.",
+            "Painting": 214,
+            "Object Number: ": "1996.45.117 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Girl in a Rocking Chair"
+        },
+        {
+            "Artist: ": "Philippe Jeanron, French, 1809-1877",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "22-1/2 x 16-7/16 in. (57.2 x 41.8 cm.); Frame: 29-1/4 x 23-3/8 x 2-1/4 in. (74.3 x 59.4 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 215,
+            "Object Number: ": "1996.45.150 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Girl in the Forest"
+        },
+        {
+            "Artist: ": "Louis Favre, French, 1892-1956",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "18 x 13 in. (45.7 x 33 cm.) ",
+            "Date": "1927",
+            "Painting": 216,
+            "Object Number: ": "1950.325 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Girl in White Dress Seated in Red Chair"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "15 1/8 x 18 1/4 in. (38.4 x 46.4 cm.) ",
+            "Date": "1922",
+            "Painting": 217,
+            "Object Number: ": "1950.246 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Girl Reading, Vase of Flowers"
+        },
+        {
+            "Artist: ": "Jean-L&eacute;on G&eacute;r&ocirc;me, French, 1824-1904",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "15 3/16 in. (38.6 cm.)",
+            "Date": "c. 1859",
+            "Painting": 218,
+            "Object Number: ": "1996.46.122 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Gladiator with Trident and Net"
+        },
+        {
+            "Artist: ": "Andr&eacute; Bauchant, French, 1873-1958",
+            "Medium: ": "Oil on canvas mounted on paperboard",
+            "Dimensions: ": "6 3/8 x 9 3/8 in. (16.2 x 23.8 cm.) ",
+            "Date": "1927",
+            "Painting": 219,
+            "Object Number: ": "1950.312 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Grandfather"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown patina",
+            "Dimensions: ": "8-3/16 H x 14-1/4 L x 3-15/16 D in.",
+            "Date": "original model n.d., first edition c. 1870; this cast n.d.",
+            "Painting": 220,
+            "Object Number: ": "1996.46.19 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Grayhound Retrieving a Hare"
+        },
+        {
+            "Artist: ": "Jean Ernest Aubert, French, 1824-1906",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "10 7/16 x 7 1/8 in. (26.5 x 18.1 cm.) ",
+            "Date": "n.d.",
+            "Painting": 221,
+            "Object Number: ": "1996.45.8 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Greek Fisher Girl"
+        },
+        {
+            "Artist: ": "Antoni T&agrave;pies, Spanish, 1923-2012",
+            "Medium: ": "Mixed media on canvas",
+            "Dimensions: ": "77-1/8 x 67 in. (196 x 170.2 cm.)",
+            "Date": "1959",
+            "Painting": 222,
+            "Object Number: ": "1960.63 ",
+            "Credit Line: ": "Gift of Martha Jackson, New York",
+            "Title": "Grey with Lateral Relief"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "17 3/4 x 25 x 7 1/2 in. (45.1 x 63.5 x 19.1 cm.)",
+            "Date": "First edition c. 1870; this cast after 1876",
+            "Painting": 223,
+            "Object Number: ": "1951.126 ",
+            "Credit Line: ": "The Jacob Epstein Collection",
+            "Title": "Greyhound Retrieving a Hare"
+        },
+        {
+            "Artist: ": "Marie Laurencin, French, 1885-1956",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "25 5/8 x 31 7/8 in. (65.1 x 81 cm.) ",
+            "Date": "1908",
+            "Painting": 224,
+            "Object Number: ": "1950.215 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Group of Artists"
+        },
+        {
+            "Artist: ": "Jean-Adrien Guignet, French, 1816-1854",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "10 x 7-9/16 in. (25.4 x 19.2 cm.); Frame: 13 x 10-1/2 x 1-1/4 in. (33 x 26.7 x 3.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 225,
+            "Object Number: ": "1996.45.126 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Guarding the Pass"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "20 x 29-1/2 in. (50.8 x 75 cm.)",
+            "Date": "1839",
+            "Painting": 226,
+            "Object Number: ": "1956.259 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Gustavus and Tommy"
+        },
+        {
+            "Artist: ": "Alexandre Longuet, French, 1805-1851",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "15-9/16 x 10-15/16 in. (39.5 x 27.8 cm.); Frame: 22-1/2 x 18-1/8 x 2 in. (57.2 x 46.1 x 5.1 cm.)",
+            "Date": "1851",
+            "Painting": 227,
+            "Object Number: ": "1996.45.187 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Hagar and Ishmael"
+        },
+        {
+            "Artist: ": "Othon Friesz, French, 1879-1949",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "23 5/8 x 28 3/4 in. (60 x 73 cm.) ",
+            "Date": "1930",
+            "Painting": 229,
+            "Object Number: ": "1950.211 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Harbor of Honfleur"
+        },
+        {
+            "Artist: ": "Alexandr&eacute; Guillemin, French, 1817-1880",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-1/4 x 8-9/16 in. (15.9 x 21.8 cm.); Frame: 10-3/4 x 13 x 1-1/4 in. (27.3 x 33 x 3.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 230,
+            "Object Number: ": "1996.45.128 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Hauling Fish on the Seine"
+        },
+        {
+            "Artist: ": "Adam Fischer, Danish, 1888-1968",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "Without Base: 7 3/4 in. (19.7 cm.) Base (marble): 10 in. (25.4 cm.)",
+            "Date": "c. 1920",
+            "Painting": 231,
+            "Object Number: ": "1951.378 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Head of a Boy"
+        },
+        {
+            "Artist: ": "Charles Despiau, French, 1874-1946",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "14 in. H",
+            "Date": "19th-20th Century",
+            "Painting": 232,
+            "Object Number: ": "1941.127 ",
+            "Credit Line: ": "Bequest of Blanche Adler",
+            "Title": "Head of a Child"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "6 7/16 x 4 15/16 x 4 5/8 in. (16.4 x 12.5 x 11.7 cm.)",
+            "Date": "Original model 1904-1905; this cast 1922",
+            "Painting": 233,
+            "Object Number: ": "1950.425 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Head of a Child (Pierre Matisse)"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, gold-brown patina",
+            "Dimensions: ": "3 H x 20 1/4 L x 2 7/8 D in.",
+            "Date": "Original model n.d.; this cast 1876-1909",
+            "Painting": 234,
+            "Object Number: ": "1996.46.71 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Head of a Chimpanzee"
+        },
+        {
+            "Artist: ": "Jacques Loutchansky, French, 1876-1978",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "20 1/2 x 11 3/4 x 7 1/4 in. (52.1 x 29.8 x 18.4 cm.)",
+            "Date": "1905",
+            "Painting": 235,
+            "Object Number: ": "1950.419 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Head of a Man"
+        },
+        {
+            "Artist: ": "Pablo Picasso, Spanish, 1881-1973",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "7 5/8 x 5 13/16 x 5 in. (19.4 x 14.8 x 12.7 cm.)",
+            "Date": "Original model 1904-1905; this cast before 1925",
+            "Painting": 236,
+            "Object Number: ": "1950.453 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Head of a Picador with a Broken Nose"
+        },
+        {
+            "Artist: ": " Attributed to Spinello Aretino, Italian, active 1346-1411",
+            "Medium: ": "Fresco fragment",
+            "Dimensions: ": "11 3/4 x 10 1/2 in. (29.8 x 26.7 cm.)",
+            "Date": "c. 1390",
+            "Painting": 237,
+            "Object Number: ": "1951.395 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Head of a Saint"
+        },
+        {
+            "Artist: ": "Othon Coubine, French, born Czechoslovakia, 1883-1969",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "12 11/16 x 9 3/8 in. (32.2 x 23.8 cm.) ",
+            "Date": "c. 1927",
+            "Painting": 238,
+            "Object Number: ": "1950.321 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Head of a Woman"
+        },
+        {
+            "Artist: ": "Andr&eacute; Derain, French, 1880-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "21 1/2 x 18 3/4 in. (54.6 x 47.6 cm.) ",
+            "Date": "1920",
+            "Painting": 239,
+            "Object Number: ": "1950.209 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Head of a Woman"
+        },
+        {
+            "Artist: ": "Adam Fischer, Danish, 1888-1968",
+            "Medium: ": "Limestone",
+            "Dimensions: ": "Overall: 8 1/2 in. (21.6 cm.)",
+            "Date": "n.d.",
+            "Painting": 240,
+            "Object Number: ": "1951.379 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Head of a Woman"
+        },
+        {
+            "Artist: ": " Probably Georges de Galard, French, born 1834",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "24 x 19-3/4 in.",
+            "Date": "c. 1830",
+            "Painting": 241,
+            "Object Number: ": "1963.16.2 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Head of a Woman"
+        },
+        {
+            "Artist: ": "Jean Jacques Henner, French, 1829-1905",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "13-3/4 x 10-3/4 in. (34.9 x 27.3 cm.)",
+            "Date": "n.d.",
+            "Painting": 242,
+            "Object Number: ": "1967.36.4 ",
+            "Credit Line: ": "The Helen and Abram Eisenberg Collection",
+            "Title": "Head of a Woman"
+        },
+        {
+            "Artist: ": "Charles Despiau, French, 1874-1946",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "11-5/8 in. H. (29.5 cm.)",
+            "Date": "1923",
+            "Painting": 243,
+            "Object Number: ": "1950.417 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Head of a Young Girl (\"Dede\")"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "6 5/16 x 6 3/4 x 5 3/4 in. (16 x 17.1 x 14.6 cm.)",
+            "Date": "Original model 1906; this cast 1929",
+            "Painting": 244,
+            "Object Number: ": "1950.426 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Head of a Young Girl (Marguerite)"
+        },
+        {
+            "Artist: ": "Auguste Rodin, French, 1840-1917",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "7 1/2 in. (19.1 cm.)",
+            "Date": "Original model 1897; this cast before 1964",
+            "Painting": 245,
+            "Object Number: ": "1964.26.4 ",
+            "Credit Line: ": "Gift of Wilton C. Dinges",
+            "Title": "Head of Balzac"
+        },
+        {
+            "Artist: ": "Emile-Antoine Bourdelle, French, 1861-1929",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "22 in. (55.9 cm.) ",
+            "Date": "1925",
+            "Painting": 246,
+            "Object Number: ": "1966.40 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Fund",
+            "Title": "Head of Medusa (Door Knocker)"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "5 15/16 x 5 1/8 x 4 3/8 in. (15.1 x 13 x 11.1 cm.)",
+            "Date": "Original model 1907; this cast 1930",
+            "Painting": 247,
+            "Object Number: ": "1950.428 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Head with Necklace"
+        },
+        {
+            "Artist: ": "Pablo Picasso, Spanish, 1881-1973",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "28 3/4 x 23 1/2 in. (73 x 59.7 cm.) ",
+            "Date": "1929",
+            "Painting": 248,
+            "Object Number: ": "1966.41 ",
+            "Credit Line: ": "The Dexter M. Ferry, Jr. Trustee Corporation Fund",
+            "Title": "Head: Study for a Monument"
+        },
+        {
+            "Artist: ": "Alberto Giacometti, Swiss, 1901-1966",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "57 1/2 x 14 1/4 x 10 in. (146.1 x 36.2 x 25.4 cm.)",
+            "Date": "Original model 1932-1936; this cast 1960",
+            "Painting": 249,
+            "Object Number: ": "1966.55.9 ",
+            "Credit Line: ": "Alan and Janet Wurtzburger Collection",
+            "Title": "Headless Woman"
+        },
+        {
+            "Artist: ": "Sir Henry Raeburn, Scottish, 1756-1823",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "63 x 49 1/2 in. (160 x 125.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 250,
+            "Object Number: ": "1938.221 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Henry, Viscount Melville (1742-1811)"
+        },
+        {
+            "Artist: ": "John N. Sartorius, English, c. 1759-1828",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "24-7/8 x 30 in. (63.2 x 76.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 251,
+            "Object Number: ": "1956.279 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Highflyer"
+        },
+        {
+            "Artist: ": "Adolphe Appian, French, 1818-1898",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "6-1/16 x 11 in. (15.4 x 27.9 cm.); Frame: 10 x 14-3/4 x 2-1/4 in. (25.41 x 37.4 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 252,
+            "Object Number: ": "1996.45.5 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Highroad"
+        },
+        {
+            "Artist: ": "Th&eacute;ophile-Victor-Emile Lemmens, French, 1821-1867",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-1/4 x 9-7/16 in. (15.9 x 24 cm.); Frame: 14-5/8 x 17-7/8 x 2-3/4 in. (37.2 x 45.4 x 7 cm.)",
+            "Date": "n.d.",
+            "Painting": 253,
+            "Object Number: ": "1996.45.170 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "His Majesty"
+        },
+        {
+            "Artist: ": "Alexis Kreyder, French, 1839-1912",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "44 x 32 in. (111.8 x 81.3 cm.)",
+            "Date": "n.d.",
+            "Painting": 254,
+            "Object Number: ": "1996.45.155 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Hollyhocks and Currants"
+        },
+        {
+            "Artist: ": "Marino Marini, Italian, 1901-1980",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "11 in. high, 13 in. long, 4-1/2 in. wide",
+            "Date": "c. 1951-1952",
+            "Painting": 255,
+            "Object Number: ": "1964.11.27 ",
+            "Credit Line: ": "Bequest of Mabel Garrison Siemonn, in Memory of her Husband, George Siemonn",
+            "Title": "Horse"
+        },
+        {
+            "Artist: ": "Benjamin Marshall, English, 1767-1835",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "34 x 39-3/4 in.",
+            "Date": "1808",
+            "Painting": 256,
+            "Object Number: ": "1944.120 ",
+            "Credit Line: ": "Bequest of Elise Agnus Daingerfield",
+            "Title": "Horse and Fox"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, green patina",
+            "Dimensions: ": "15-11/16 H x 14-5/8 L x 5-3/4 D",
+            "Date": "Original model n.d., first edition 1857; this cast n.d.",
+            "Painting": 257,
+            "Object Number: ": "2004.6 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased as the gift of Stiles Tuttle Colwill and the Stiles Ewing Tuttle Memorial Trust, in Honor of Jay McKean Fisher",
+            "Title": "Horse Surprised by a Lion (second version)"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, silver patina on pointer; gold patina on base",
+            "Dimensions: ": "3-1/2 H x 6-5/8 L x 2-5/8 D in.",
+            "Date": "Original model n.d., first edition c. 1845; this cast n.d.",
+            "Painting": 258,
+            "Object Number: ": "1996.46.109 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Hound (first version)"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "5 H x 10 L x 4 D in.",
+            "Date": "original model n.d., first edition 1857; this cast n.d.",
+            "Painting": 259,
+            "Object Number: ": "1972.91 ",
+            "Credit Line: ": "Bequest of Lucy Ridgely Seymer",
+            "Title": "Hunting Dogs with Pheasant"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "4-3/4 H x 9-3/4 L x 3-3/4 D in.",
+            "Date": "original model n.d., first edition 1857; this cast n.d.",
+            "Painting": 260,
+            "Object Number: ": "1972.92 ",
+            "Credit Line: ": "Bequest of Lucy Ridgely Seymer",
+            "Title": "Hunting Dogs with Pheasant"
+        },
+        {
+            "Artist: ": "Newton (Limbird Smith) Fielding, English, 1799-1856",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-3/16 x 8-5/8 in. (15.7 x 21.9 cm.); Frame: 13-5/8 x 15-3/4 x 2-1/4 in. (34.6 x 40 x 5.7 cm.)",
+            "Date": "1826",
+            "Painting": 261,
+            "Object Number: ": "1996.45.102 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Hunting on the Moors"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, gold-brown patina",
+            "Dimensions: ": "2-5/8 H x 2-1/8 L x 1-15/16 D in. (with base)",
+            "Date": "n.d.",
+            "Painting": 262,
+            "Object Number: ": "1996.46.74 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Ibex Fawn"
+        },
+        {
+            "Artist: ": "Charles &Eacute;mile Jacque, French, 1813-1894",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "5-1/16 x 6-15/16 in. (12.9 x 17.6 cm.); Frame: 9-7/8 x 11-3/8 x 1-1/4 in. (25.1 x 28.9 x 3.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 265,
+            "Object Number: ": "1996.45.143 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "In the Barnyard"
+        },
+        {
+            "Artist: ": "Th&eacute;ophile-Victor-Emile Lemmens, French, 1821-1867",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "4-1/4 x 5-13/16 in. (10.8 x 14.8 cm.); Frame: 7-1/2 x 9 x 1 in. (19.1 x 22.9 x 2.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 266,
+            "Object Number: ": "1996.45.171 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "In the Barnyard"
+        },
+        {
+            "Artist: ": "Eug&egrave;ne M. Edward Lepoittevin, French, 1806-1870",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "8-1/8 x 6-13/16 in. (20.6 x 17.3 cm.); Frame: 15-5/16 x 14 x 2-1/2 in. (38.9 x 35.6 x 6.4 cm.)",
+            "Date": "1837",
+            "Painting": 267,
+            "Object Number: ": "1996.45.178 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "In the Barnyard"
+        },
+        {
+            "Artist: ": "Narcisse-Virgile Diaz de la Pe&ntilde;a, French, 1807-1876",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "9-3/4 x 12-15/16 in. (24.8 x 32.9 cm.); Frame: 15-3/16 x 18-3/8 x 1-3/4 in. (38.6 x 46.7 x 4.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 268,
+            "Object Number: ": "1996.45.87 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "In the Forest"
+        },
+        {
+            "Artist: ": "Georges Michel, French, 1763-1843",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "Unframed: 24 5/8 x 19 1/8 in. (62.5 x 48.6 cm.) Framed: 30 1/16 x 24 7/8 x 3/4 in. (76.4 x 63.2 x 1.9 cm.)",
+            "Date": "n.d.",
+            "Painting": 269,
+            "Object Number: ": "1996.45.201 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "In the Forest"
+        },
+        {
+            "Artist: ": "Benjamin Eugene Fichel, French, 1826-1895",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6-5/8 x 4-3/4 in. (16.8 x 12.1 cm.); Frame: 13-5/8 x 11-7/8 x 2 in. (34.6 x 30.2 x 5.1 cm.)",
+            "Date": "1863",
+            "Painting": 270,
+            "Object Number: ": "1996.45.101 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "In the Library"
+        },
+        {
+            "Artist: ": "Alberto Pasini, Italian, 1826-1899",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "9-1/4 x 15-9/16 in. (23.5 x 39.5 cm.); Frame: 14-3/4 x 21-1/8 x 1-3/4 in. (37.5 x 53.7 x 4.4 cm.)",
+            "Date": "1868",
+            "Painting": 271,
+            "Object Number: ": "1996.45.219 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "In the Market Place"
+        },
+        {
+            "Artist: ": "Albert Brendel, German, 1827-1895",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "10-7/8 x 13-15/16 in. (27.6 x 35.4 cm.); Frame: 19-3/4 x 23 x 3 in. (50.2 x 58.4 x 7.6 cm.)",
+            "Date": "n.d.",
+            "Painting": 272,
+            "Object Number: ": "1996.45.44 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "In the Stable"
+        },
+        {
+            "Artist: ": "Andr&eacute; Derain, French, 1880-1954",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "6 3/16 x 8 11/16 in. (15.7 x 22.1 cm.) ",
+            "Date": "c. 1920-1921",
+            "Painting": 273,
+            "Object Number: ": "1950.208 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "In the Studio"
+        },
+        {
+            "Artist: ": "Andr&eacute; Masson, French, 1896-1987",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "Unframed: 32 x 39 1/2 in. (81.3 x 100.3 cm.) Framed: 35 1/4 x 42 3/4 x 2 5/16 in. (89.5 x 108.6 x 5.9 cm.)",
+            "Date": "1938",
+            "Painting": 274,
+            "Object Number: ": "1951.329 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "In the Tower of Sleep"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown-black patina",
+            "Dimensions: ": "11 H x 13 L x 7-1/2 D in.",
+            "Date": "Original model n.d., first edition c. 1845; this cast n.d.",
+            "Painting": 275,
+            "Object Number: ": "1996.46.61 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Indian Mounted on an Elephant Crushing a Tiger"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, red/brown patina",
+            "Dimensions: ": "5 1/2 H x 11 L x 3 7/8 D in.",
+            "Date": "Original model n.d., first edition 1857; this cast n.d.",
+            "Painting": 276,
+            "Object Number: ": "1996.46.51 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Indian Panther No. 2"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown/red patina",
+            "Dimensions: ": "3-15/16 H x 7-7/8 L x 2-6/16 D in.",
+            "Date": "Original model n.d., first edition 1857; this cast n.d.",
+            "Painting": 277,
+            "Object Number: ": "1996.46.59 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Indian Panther No. 2"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown patina",
+            "Dimensions: ": "Overall: 5 3/4 x 9 3/4 x 3 3/8 in. (14.6 x 24.8 x 8.6 cm.)",
+            "Date": "Original model n.d.; this cast possibly 1838-1875",
+            "Painting": 278,
+            "Object Number: ": "1996.46.54 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Indochinese Elephant"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown patina",
+            "Dimensions: ": "5-7/8 H x 10 L x 2-1/8 D in.",
+            "Date": "Original model n.d., first edition 1870; this cast posthumous",
+            "Painting": 279,
+            "Object Number: ": "2004.7 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased as the gift of Stiles Tuttle Colwill and the Stiles Ewing Tuttle Memorial Trust",
+            "Title": "Indochinese Elephant"
+        },
+        {
+            "Artist: ": "Juan Pantoja de la Cruz, Spanish, 1553-1608",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "26 x 21 in. (66 x 53.3 cm.)",
+            "Date": "1607",
+            "Painting": 280,
+            "Object Number: ": "1938.203 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Infanta Ana Mauricia"
+        },
+        {
+            "Artist: ": "Theo van Doesburg, Dutch, 1883-1931",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "25 5/8 x 21 3/16(65.1 x 53.8 cm.) ",
+            "Date": "1919",
+            "Painting": 281,
+            "Object Number: ": "1951.292 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Interior"
+        },
+        {
+            "Artist: ": "Edouard Vuillard, French, 1868-1940",
+            "Medium: ": "Distemper on composition board",
+            "Dimensions: ": "27 x 29 1/2 in. (68.6 x 74.9 cm.)",
+            "Date": "1921-1922",
+            "Painting": 282,
+            "Object Number: ": "1950.308 ",
+            "Credit Line: ": "The Cone Collection, Bequest of Frederic W. Cone",
+            "Title": "Interior on a Grey Day, Vaucresson"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "61 1/4 x 66 3/8 in. (155.6 x 168.6 cm.)",
+            "Date": "1934",
+            "Painting": 283,
+            "Object Number: ": "1950.257 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Interior with Dog"
+        },
+        {
+            "Artist: ": "Caspar Netscher, Dutch, 1639-1684",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "20 x 24 1/2 in. (50.8 x 62.2 cm.)",
+            "Date": "1666 or 1668",
+            "Painting": 284,
+            "Object Number: ": "1944.103 ",
+            "Credit Line: ": "Bequest of Elise Agnus Daingerfield",
+            "Title": "Interior with Figures"
+        },
+        {
+            "Artist: ": "Antoine Emile Plassan, French, 1817-1903",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "14 x 10-5/8 in. (35.6 x 27 cm.); Frame: 18-1/4 x 14-7/8 x 1-1/2 in. (46.4 x 37.8 x 3.8 cm.)",
+            "Date": "n.d.",
+            "Painting": 285,
+            "Object Number: ": "1996.45.223 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Interior with Still Life"
+        },
+        {
+            "Artist: ": "Louis Favre, French, 1892-1956",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "13 1/8 x 7 1/2 in. (33.3 x 19.1cm.) ",
+            "Date": "1928",
+            "Painting": 286,
+            "Object Number: ": "1950.326 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Interior with Vase of Flowers on Table"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "46 1/4 x 29 in. (117.5 x 73.7 cm.) ",
+            "Date": "1924",
+            "Painting": 287,
+            "Object Number: ": "1950.252 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Interior, Flowers and Parakeets"
+        },
+        {
+            "Artist: ": "Harry Hall, English, c. 1814-c. 1886",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "28 x 36 in. (71.2 x 91.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 288,
+            "Object Number: ": "1956.234 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Irish Birdcatcher"
+        },
+        {
+            "Artist: ": "Emile-Auguste Carolus-Duran, French, 1838-1917",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "17 3/4 x 13 3/4 in. (45.1 x 34.9 cm.) ",
+            "Date": "1872",
+            "Painting": 289,
+            "Object Number: ": "1996.45.53 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Italian Model"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze cast profile portrait medallion",
+            "Dimensions: ": "5-3/8 in. Diam.",
+            "Date": "1830",
+            "Painting": 290,
+            "Object Number: ": "1996.46.126 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "J.P. DeBeranger"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "14-5/8 x 18-3/4 in. (37.2 x 47.6 cm.)",
+            "Date": "1821",
+            "Painting": 291,
+            "Object Number: ": "1956.262 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Jack Spigot"
+        },
+        {
+            "Artist: ": "Jacob Epstein, English, 1880-1959",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "20 3/4 x 22 1/2 x 12 in. (52.7 x 57.2 x 30.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 292,
+            "Object Number: ": "1951.123 ",
+            "Credit Line: ": "The Jacob Epstein Collection",
+            "Title": "Jacob Epstein of Baltimore"
+        },
+        {
+            "Artist: ": "Honor&eacute; Daumier, French, 1808-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "7 3/4 in. (19.7 cm.)",
+            "Date": "Original terra-cotta model, 1830-1832; this cast, c. 1929-1952",
+            "Painting": 293,
+            "Object Number: ": "1963.16.52 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Jacques Lefebvre (1773-1856) (\"The Refined and Trenchant Intellect\")"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "3-1/4 H x 3-3/4 W x 9-5/8 D in.",
+            "Date": "original model n.d.; this cast before 1888",
+            "Painting": 294,
+            "Object Number: ": "1996.46.3 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Jaguar Devouring a Crocodile"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "8 1/2 x 23 x 8 in. (21.6 x 58.4 x 20.3 cm.)",
+            "Date": "Original model 1899-1901; this cast 1953",
+            "Painting": 295,
+            "Object Number: ": "1999.3 ",
+            "Credit Line: ": "Purchase with exchange funds from the Nelson and Juanita Greif Gutman Collection",
+            "Title": "Jaguar Devouring a Hare"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "Overall: 2 7/8 x 3 1/2 x 9 1/4 in. (7.3 x 8.9 x 23.5 cm.)",
+            "Date": "first edition c. 1845; this cast after 1875",
+            "Painting": 296,
+            "Object Number: ": "1996.46.11 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Jaguar Devouring an Agouti"
+        },
+        {
+            "Artist: ": "Sir Henry Raeburn, Scottish, 1756-1823",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "30 x 25 in. (76.2 x 63.5 cm.)",
+            "Date": "1785-1787",
+            "Painting": 297,
+            "Object Number: ": "1976.55.7 ",
+            "Credit Line: ": "The Helen and Abram Eisenberg Collection",
+            "Title": "James Byres of Tonley (1734-1817)"
+        },
+        {
+            "Artist: ": "Sir Henry Raeburn, Scottish, 1756-1823",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "33 5/8 x 27 1/2 in. (85.4 x 69.9 cm.)",
+            "Date": "1788",
+            "Painting": 298,
+            "Object Number: ": "1938.223 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Janet Law"
+        },
+        {
+            "Artist: ": "Honor&eacute; Daumier, French, 1808-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "4 3/4 in. (12.1 cm.)",
+            "Date": "Original terra-cotta model, 1830-1832; this cast, c. 1929-1952",
+            "Painting": 299,
+            "Object Number: ": "1963.16.44 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Jean Marie Harlé Pere (1765-1838) (\"The Idiot\")"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "7 in. (17.8 cm.)",
+            "Date": "1831",
+            "Painting": 300,
+            "Object Number: ": "1996.46.130 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Jean-Baptiste Kléber"
+        },
+        {
+            "Artist: ": "Honor&eacute; Daumier, French, 1808-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "6 3/8 in. (16.2 cm.)",
+            "Date": "Original terra-cotta model, 1830-1832; this cast, c. 1929-1952",
+            "Painting": 301,
+            "Object Number: ": "1963.16.48 ",
+            "Credit Line: ": "Nelson and Juanita Greif Gutman Collection",
+            "Title": "Jean-Claude Fulchiron (1774-1859) (\"The Hypocrite\")"
+        },
+        {
+            "Artist: ": "Jean-Baptiste Carpeaux, French, 1827-1875",
+            "Medium: ": "Plaster with marble base",
+            "Dimensions: ": "23 1/4 in. (59.1 cm.)",
+            "Date": "1871",
+            "Painting": 302,
+            "Object Number: ": "2005.35 ",
+            "Credit Line: ": "Purchase with exchange funds from Nelson and Juanita Greif Gutman Collection",
+            "Title": "Jean-Léon Gérôme"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze cast portrait medallion",
+            "Dimensions: ": "4 1/2 in. (11.5 cm.)",
+            "Date": "1829",
+            "Painting": 303,
+            "Object Number: ": "2007.346 ",
+            "Credit Line: ": "Gift of Joseph G. Reinis, New York",
+            "Title": "Joachim Rossini"
+        },
+        {
+            "Artist: ": "Pierre Jules Mene, French, 1810-1879",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "16-3/4 x 18 x 5-1/2 in.",
+            "Date": "n.d.",
+            "Painting": 304,
+            "Object Number: ": "1958.53 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Jockey Figure"
+        },
+        {
+            "Artist: ": "David d'Angers (Pierre-Jean David), French, 1788-1856",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "6 3/16 in. (15.7 cm.)",
+            "Date": "1833",
+            "Painting": 305,
+            "Object Number: ": "1996.46.132 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Julian Ursyn Niemcewicz"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, green-brown patina",
+            "Dimensions: ": "12 H x 5-15/16 L x 5-1/16 D in. (including base)",
+            "Date": "Original model c. 1840, first edition c. 1865; this cast n.d.",
+            "Painting": 306,
+            "Object Number: ": "1996.46.39 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Juno"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze, brown-yellow patina",
+            "Dimensions: ": "2-7/16 H x 5-1/4 L x 3 D in.",
+            "Date": "n.d.",
+            "Painting": 307,
+            "Object Number: ": "1996.46.69 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "King Charles Spaniel"
+        },
+        {
+            "Artist: ": "Cl&eacute;ment-Auguste Andrieux, French, 1829-1880",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9-7/8 x 14 in. (25 x 35.5 cm.); Frame: 17-1/2 x 21-5/8 x 2-3/4 in. (44.4 x 54.9 x 6.9 cm.)",
+            "Date": "1850",
+            "Painting": 308,
+            "Object Number: ": "1996.45.4 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Knife Sharpener"
+        },
+        {
+            "Artist: ": "Unknown Artist, French",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "23 x 19 in. (58.4 x 48.3 cm.)",
+            "Date": "n.d.",
+            "Painting": 309,
+            "Object Number: ": "1938.185 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "L'Amitie"
+        },
+        {
+            "Artist: ": "Charles Despiau, French, 1874-1946",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "10-1/2 in. H (26.7 cm.)",
+            "Date": "1929",
+            "Painting": 310,
+            "Object Number: ": "1950.416 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "La Bacchante"
+        },
+        {
+            "Artist: ": "Pablo Picasso, Spanish, 1881-1973",
+            "Medium: ": "Oil and charcoal on canvas",
+            "Dimensions: ": "32 1/8 x 25 3/4 in. (81.6 x 65.4 cm.)",
+            "Date": "1905",
+            "Painting": 311,
+            "Object Number: ": "1950.269 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "La Coiffure"
+        },
+        {
+            "Artist: ": "Jules Ch&eacute;ret, French, 1836-1933",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "28 x 41 in.",
+            "Date": "n.d.",
+            "Painting": 312,
+            "Object Number: ": "1964.4 ",
+            "Credit Line: ": "Gift of Mrs. Bryson Burroughs",
+            "Title": "La Farandole"
+        },
+        {
+            "Artist: ": "Unknown Artist, French",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "42 x 32 7/8 in. (106.7 x 83.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 313,
+            "Object Number: ": "1938.188 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "La Marquise d'Argenson"
+        },
+        {
+            "Artist: ": "John Frederick Herring, Sr., English, 1795-1865",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "20-1/2 x 30 in. (54.6 x 76.2 cm.)",
+            "Date": "1842",
+            "Painting": 314,
+            "Object Number: ": "1956.249 ",
+            "Credit Line: ": "William Woodward Collection",
+            "Title": "Lady Hampton"
+        },
+        {
+            "Artist: ": "Sir Joshua Reynolds, English, 1723-1792",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "93 x 57 1/2 in. (236.2 x 146.1 cm.)",
+            "Date": "1765",
+            "Painting": 315,
+            "Object Number: ": "1938.177 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Lady Stanhope as Contemplation"
+        },
+        {
+            "Artist: ": " Attributed to Georg Desmar&eacute;es, Swedish, 1697-1776",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "37 x 28 in. (94 x 71.2 cm.)",
+            "Date": "n.d.",
+            "Painting": 316,
+            "Object Number: ": "1938.190 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Lady with a Dog"
+        },
+        {
+            "Artist: ": "Antoine Emile Plassan, French, 1817-1903",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "24-1/16 x 13-11/16 in. (61.1 x 34.8 cm.); Frame: 29-1/8 x 18-15/16 x 3/4 in. (74 x 48.1 x 1.9 cm.)",
+            "Date": "n.d.",
+            "Painting": 317,
+            "Object Number: ": "1996.45.224 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Lady with Dog in Landscape"
+        },
+        {
+            "Artist: ": "Adolphe Appian, French, 1818-1898",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "13-1/8 x 22-3/4 in. (33.3 X 57.8 cm.); Frame: 19-9/16 x 28-9/16 x 2 in. (49.7 x 72.6 x 5.1 cm.)",
+            "Date": "18--?",
+            "Painting": 318,
+            "Object Number: ": "1996.45.6 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Lake in Ain, France"
+        },
+        {
+            "Artist: ": "Pierre-Auguste Renoir, French, 1841-1919",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "6 3/4 x 7 15/16 in. (17.1 x 20.2 cm.)",
+            "Date": "c. 1904",
+            "Painting": 319,
+            "Object Number: ": "1950.288 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Landscape"
+        },
+        {
+            "Artist: ": "Pola (Paul) Rollon Gauguin, Danish, 1883-1961",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "15 3/16 x 18 3/16 in. (38.6 x 46.2 cm.) ",
+            "Date": "1926",
+            "Painting": 320,
+            "Object Number: ": "1950.331 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Landscape"
+        },
+        {
+            "Artist: ": "Nicolas Alexandrovitch Tarkhoff, Russian, 1871-1930",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "13 x 16 3/16 in. (33 x 41.1 cm.) ",
+            "Date": "1928",
+            "Painting": 321,
+            "Object Number: ": "1950.368 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Landscape"
+        },
+        {
+            "Artist: ": "Eug&egrave;ne Zak, French, 1884-1926",
+            "Medium: ": "Oil on paper mounted on paperboard",
+            "Dimensions: ": "13 1/8 x 18 3/8 in. (33.3 x 46.7 cm.) ",
+            "Date": "1924",
+            "Painting": 322,
+            "Object Number: ": "1950.379 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Landscape"
+        },
+        {
+            "Artist: ": " Attributed to Richard Parkes Bonington, English, 1802 - 1828",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "11-3/8 x 14-7/8 in. (28.9 x 37.8 cm.); Frame: 17 x 20-1/4 x 1-3/4 in. (43.2 x 51.1 x 4.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 323,
+            "Object Number: ": "1996.45.25 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape"
+        },
+        {
+            "Artist: ": "Narcisse-Virgile Diaz de la Pe&ntilde;a, French, 1807-1876",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "2-1/2 x 3-3/4 in. (6.4 x 9.5 cm.); Frame: 7-3/8 x 8-1/2 x 1-1/2 in. (18.7 x 21.6 x 3.8 cm.)",
+            "Date": "n.d.",
+            "Painting": 324,
+            "Object Number: ": "1996.45.89 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape"
+        },
+        {
+            "Artist: ": "Antoine Emile Plassan, French, 1817-1903",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "5-3/16 x 9-11/16 in. (13.2 x 24.6 cm.); Frame: 13-1/2 x 17-3/4 x 2-1/4 in. (34.3 x 45.1 x 5.7 cm.)",
+            "Date": "n.d.",
+            "Painting": 325,
+            "Object Number: ": "1996.45.225 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape at Cernay"
+        },
+        {
+            "Artist: ": "Constantin Terechkovitch, French, born Russia, 1902-1978",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "25 1/2 x 31 7/8 in. (64.8 x 81 cm.) ",
+            "Date": "c. 1928",
+            "Painting": 326,
+            "Object Number: ": "1950.371 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Landscape at Montreux"
+        },
+        {
+            "Artist: ": "Salomon Van Ruysdael, Dutch, 1600-1670",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "36 1/2 x 44 1/8 in. (92.7 x 112.1 cm.)",
+            "Date": "1643",
+            "Painting": 327,
+            "Object Number: ": "1938.195 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Landscape on the River Meuse"
+        },
+        {
+            "Artist: ": "Raoul Dufy, French, 1877-1953",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "Unframed: 28 1/2 x 23 1/2 in. (72.4 x 59.7 cm.) Framed: 37 x 32 x 4 1/8 in. (94 x 81.3 x 10.5 cm.)",
+            "Date": "1908",
+            "Painting": 328,
+            "Object Number: ": "1964.11.3 ",
+            "Credit Line: ": "Bequest of Mabel Garrison Siemonn, in Memory of her Husband, George Siemonn",
+            "Title": "Landscape with a Hunter"
+        },
+        {
+            "Artist: ": "Vincent van Gogh, Dutch, 1853-1890",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "19 15/16 x 26 in. (50.6 x 66 cm.)",
+            "Date": "1889",
+            "Painting": 329,
+            "Object Number: ": "1950.303 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Landscape with Figures"
+        },
+        {
+            "Artist: ": "Jules Breton, French, 1827-1906",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "15-1/8 x 11-1/2 in.",
+            "Date": "n.d.",
+            "Painting": 330,
+            "Object Number: ": "1955.191 ",
+            "Credit Line: ": "Gift of Dr. and Mrs. Michael A. Abrams",
+            "Title": "Landscape with Figures"
+        },
+        {
+            "Artist: ": "Camille Roqueplan, French, 1800 - 1855",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "Unframed: 9 1/4 x 12 3/4 in. (23.5 x 32.4 cm.) Framed: 16 3/8 x 19 13/16 x 2 in. (41.6 x 50.3 x 5.1 cm.)",
+            "Date": "n.d.",
+            "Painting": 331,
+            "Object Number: ": "1996.45.233 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape with Figures"
+        },
+        {
+            "Artist: ": "Othon Coubine, French, born Czechoslovakia, 1883-1969",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "23 7/8 x 28 7/8 in. (60.6 x 73.3 cm.) ",
+            "Date": "c. 1931",
+            "Painting": 332,
+            "Object Number: ": "1950.320 ",
+            "Credit Line: ": "The Cone Collection, Bequest of Frederic W. Cone",
+            "Title": "Landscape with Larkspur"
+        },
+        {
+            "Artist: ": "Amedee Baudit, Swiss, 1825-1890",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "9-3/16 x 13-3/16 in. (23.3 x 33.5 cm.); Frame: 18-5/8 x 22 x 3-1/4 in. (47.3 x 55.9 x 8.2 cm.)",
+            "Date": "1855",
+            "Painting": 333,
+            "Object Number: ": "1996.45.20 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape with Peasant Woman"
+        },
+        {
+            "Artist: ": "Jean Pillement, French, 1728-1808",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "19 1/2 x 26 1/2 in. (49.5 x 67.3 cm.)",
+            "Date": "1791",
+            "Painting": 334,
+            "Object Number: ": "1944.114 ",
+            "Credit Line: ": "Bequest of Elise Agnus Daingerfield",
+            "Title": "Landscape with Ruin"
+        },
+        {
+            "Artist: ": "Jules H&eacute;reau, French, 1839-1879",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "17-1/8 x 25-11/16 in. (43.5 x 65.3 cm.); Frame: 24-5/8 x 33-5/16 x 1-3/4 in. (62.6 x 84.6 x 4.4 cm.)",
+            "Date": "n.d.",
+            "Painting": 335,
+            "Object Number: ": "1996.45.132 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape with Sheep and Lambs"
+        },
+        {
+            "Artist: ": "Giuseppe Palizzi, Italian, 1812-1888",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "5-3/4 x 7-1/2 in. (14.6 x 19.1 cm.); Frame: 16-1/4 x 18-1/4 x 3-1/4 in. (41.3 x 46.4 x 8.3 cm.)",
+            "Date": "n.d.",
+            "Painting": 336,
+            "Object Number: ": "1996.45.216 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape with Shepherd"
+        },
+        {
+            "Artist: ": "L&eacute;on Victor Dupr&eacute;, French, 1816-1879",
+            "Medium: ": "Oil on wood panel",
+            "Dimensions: ": "20-7/16 x 26-7/8 in. (51.9 x 68.3 cm.); Frame: 26-13/16 x 33-1/4 x 2 in. (68.1 x 84.5 x 5.1 cm.)",
+            "Date": "1878?",
+            "Painting": 337,
+            "Object Number: ": "1996.45.93 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape with Trees and Boat"
+        },
+        {
+            "Artist: ": "Francois Nazon, French, 1821-1902",
+            "Medium: ": "Oil on canvas, mounted to wood",
+            "Dimensions: ": "12-3/4 x 18-1/4 in. (32.4 x 46.4 cm.); Frame: 21-3/8 x 26-15/16 x 3-3/4 in. (54.3 x 68.4 x 9.5 cm.)",
+            "Date": "n.d.",
+            "Painting": 338,
+            "Object Number: ": "1996.45.215 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape with Trees and Figure"
+        },
+        {
+            "Artist: ": "L&eacute;on Victor Dupr&eacute;, French, 1816-1879",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "3-1/8 x 4-5/8 in. (7.9 x 11.8 cm.); Frame: 6-1/2 x 8 x 3/4 in. (16.5 x 20.3 x 1.9 cm.)",
+            "Date": "n.d.",
+            "Painting": 339,
+            "Object Number: ": "1996.45.94 ",
+            "Credit Line: ": "The George A. Lucas Collection, purchased with funds from the State of Maryland, Laurence and Stella Bendann Fund, and contributions from individuals, foundations, and corporations throughout the Baltimore community",
+            "Title": "Landscape with Two Figures"
+        },
+        {
+            "Artist: ": "Andr&eacute; Derain, French, 1880-1954",
+            "Medium: ": "Oil on paperboard",
+            "Dimensions: ": "11 11/16 x 10 5/8 in. (29.7 x 27 cm.)",
+            "Date": "1909",
+            "Painting": 340,
+            "Object Number: ": "1951.288 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Landscape with Two Nudes"
+        },
+        {
+            "Artist: ": "Jacob van Ruisdael, Dutch, 1628/29-1682",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "43 x 36 in. (109.3 x 91.5 cm.)",
+            "Date": "c. 1660-1670",
+            "Painting": 341,
+            "Object Number: ": "1938.199 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Landscape with Waterfall"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "36 1/2 x 29 in. (92.7 x 73.7 cm.) ",
+            "Date": "1920",
+            "Painting": 342,
+            "Object Number: ": "1950.233 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Large Cliff with Fish"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "26 1/8 x 36 3/4 in. (66.4 x 93.3 cm.)",
+            "Date": "1935",
+            "Painting": 343,
+            "Object Number: ": "1950.258 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Large Reclining Nude"
+        },
+        {
+            "Artist: ": "Henri Matisse, French, 1869-1954",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "30 3/16 x 31 5/8 x 14 in. (76.7 x 80.3 x 35.6 cm.)",
+            "Date": "Original model 1922-1929; this cast 1930",
+            "Painting": 344,
+            "Object Number: ": "1950.436 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Large Seated Nude"
+        },
+        {
+            "Artist: ": "Nicolas Lancret, French, 1690-1743",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "11 3/8 x 8 5/8 in. (28.9 x 21.9 cm.)",
+            "Date": "n.d.",
+            "Painting": 345,
+            "Object Number: ": "1938.233 ",
+            "Credit Line: ": "The Mary Frick Jacobs Collection",
+            "Title": "Le Concert Pastorale"
+        },
+        {
+            "Artist: ": "Auguste Pr&eacute;ault, French, 1809-1879",
+            "Medium: ": "Plaster",
+            "Dimensions: ": "16 in. (40.6 cm.)",
+            "Date": "After 1842-1843",
+            "Painting": 346,
+            "Object Number: ": "2004.97 ",
+            "Credit Line: ": "Purchase with exchange funds from Nelson and Juanita Greif Gutman Collection ",
+            "Title": "Le Silence"
+        },
+        {
+            "Artist: ": "Andr&eacute; Gustave Beaudin, French, 1895-1979",
+            "Medium: ": "Oil on canvas",
+            "Dimensions: ": "51 x 63 5/8 in. (129.6 x 161.7 cm.)",
+            "Date": "1939",
+            "Painting": 347,
+            "Object Number: ": "1951.267 ",
+            "Credit Line: ": "Bequest of Saidie A. May",
+            "Title": "Le Troupeau"
+        },
+        {
+            "Artist: ": "Hans Arp, French, born Germany, 1886-1966",
+            "Medium: ": "Black granite",
+            "Dimensions: ": "9-1/2 x 16 x 8-1/2 in (24.1 x 40.7 x 21.6 cm.)",
+            "Date": "1939",
+            "Painting": 348,
+            "Object Number: ": "1956.292 ",
+            "Credit Line: ": "Charles and Elsa Hutzler Memorial Collection",
+            "Title": "Leaf of the Pyramids ca. 5000"
+        },
+        {
+            "Artist: ": "Antoine-Louis Barye, French, 1796-1875",
+            "Medium: ": "Bronze",
+            "Dimensions: ": "3-1/16 H x 5-5/8 L x 1/4 D in. (including relief modeling) frame: 4-1/2 H x 7-1/16 L x 7/8 D in.",
+            "Date": "original model 1831; this cast n.d.",
+            "Painting": 349,
+            "Object Number: ": "1950.406 ",
+            "Credit Line: ": "The Cone Collection, formed by Dr. Claribel Cone and Miss Etta Cone of Baltimore, Maryland",
+            "Title": "Leopard"
+        }
+    ]
+}
